@@ -1,0 +1,56 @@
+{
+    "ChatGPT": {
+        "summ": "The study found distinct immune dysregulation patterns between asthmatic bronchitis and asthma, with CD8+ T cells and B cells identified as crucial biomarkers, and proposed a Random Forest model for rapid disease diagnosis. The authors explicitly acknowledge limitations, including a small ML dataset lacking supplementary data like radiological images, which may introduce bias. They plan to address this by expanding the dataset with more patients and multi-center studies in the future.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the original paper."
+            ],
+            "Coverage": [
+                1,
+                "The summary covers all information mentioned by the authors."
+            ],
+            "Coherence": [
+                3,
+                "The summary uses abbreviations which are not explained, such as ML. The summary should either only use the full term (in this case 'machine learning') or the full term followed by the abbreviation (such as 'machine learning (ML)')."
+            ]
+        },
+        "rank": 2
+    },
+    "Gemini": {
+        "summ": "The most important finding in this study is that a machine learning model using immunological biomarkers can distinguish between asthmatic bronchitis and asthma.\n\nYes, the authors explicitly acknowledge limitations of the paper. The limitations include a relatively small ML dataset and the lack of supplementary data such as radiological images, which might introduce bias into the results. The authors plan to augment their dataset with a larger patient pool and incorporate multi-center studies to enhance the model's accuracy in the future.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the original paper."
+            ],
+            "Coverage": [
+                1,
+                "The summary covers all information mentioned by the authors."
+            ],
+            "Coherence": [
+                3,
+                "The summary uses abbreviations which are not explained, such as ML. The summary should either only use the full term (in this case 'machine learning') or the full term followed by the abbreviation (such as 'machine learning (ML)')."
+            ]
+        },
+        "rank": 3
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that children with asthmatic bronchitis and asthma exhibit distinct degrees of immune dysregulation, characterized by divergent patterns of humoral and cellular immune responses, and machine learning models, particularly the Random Forest model, can effectively utilize these immunological biomarkers to distinguish between these two diseases.\n\nRegarding the limitations, the authors explicitly acknowledge that the machine learning dataset used in the study was relatively small and lacked supplementary data such as radiological images, which might introduce bias into the results. They also express their intention to augment their dataset with a larger patient pool and incorporate multi-center studies to enhance the model's accuracy in the future. This expansion would potentially allow for a more comprehensive diagnostic platform that integrates various diagnostic tools, offering a holistic view of the patient's health status and fostering a more nuanced understanding of these diseases. However, these are plans for future work and currently remain as limitations of the study.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the original paper."
+            ],
+            "Coverage": [
+                1,
+                "The summary covers all information mentioned by the authors."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        },
+        "rank": 1
+    }
+}

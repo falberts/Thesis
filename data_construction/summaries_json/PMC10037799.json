@@ -1,0 +1,56 @@
+{
+    "ChatGPT": {
+        "summ": "The study predicts the future distribution of Ae. albopictus mosquitoes and dengue risks in China based on observed climate trends, highlighting the expansion of Ae. albopictus distribution and the increasing risk of dengue outbreaks, particularly in northern regions.\n\nThe authors acknowledge several limitations in their study. Firstly, they mention the potential bias in their model predictions due to the lack of Ae. albopictus surveillance data and sparse distribution of meteorological records in certain areas, such as the Taklamakan Desert region in northwestern China. They suggest that enhancing mosquito surveillance in these areas could improve the accuracy of their predictions. Secondly, they note that their model only considers climatic and environmental data, not human population density, which could reduce the uncertainty of the predictions. However, they argue that the inclusion of population density might not significantly impact the results since Ae. albopictus presence is primarily influenced by temperature rather than human density. Thirdly, they acknowledge the uncertainty in future global climate change trends and the challenge of predicting future population growth and distribution in China, which could affect the accuracy of their projections for at-risk populations. Finally, they highlight the potential for adjusting their model based on updated climatic data in the future to address uncertainties in climate change projections. These limitations underscore the complexities and challenges inherent in modeling dengue risks and mosquito distributions, particularly in the context of uncertain future climate and population trends.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The main findings of the study are accurately and concisely presented in the first sentence. Furthermore, the limitations are explained accurately."
+            ],
+            "Coverage": [
+                1,
+                "No limitations are left out, making this a complete summary in terms of coverage."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        },
+        "rank": 1
+    },
+    "Gemini": {
+        "summ": "This study predicts a significant northward expansion of the Ae. albopictus mosquito in China due to rising temperatures, potentially leading to a substantial increase in the population at risk of dengue fever.\n\nThe authors explicitly acknowledge several limitations of the study. The model predicted high risk in the Taklamakan Desert due to a lack of surveillance data and sparse weather stations.  Additionally, human population density was not included as a factor, though it may have reduced uncertainty in non-desert areas. The fixed-rate climate change assumption and uncertainty in future population growth were also mentioned as limitations.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations are mentioned in the summary."
+            ],
+            "Coherence": [
+                2,
+                "Although all limitations are mentioned, they are described very briefly compared to other summaries, which is why it is not completely clear why these factors limit the robustness of the study. Overall, the summary is still high quality, but could benefit from a more detailed explanation of the limitations."
+            ]
+        },
+        "rank": 3
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the observed climate warming trends across nearly all meteorological observations in China indicate a major impact on the northward expansion of the Ae. albopictus distribution, potentially increasing the risk of dengue outbreaks.\n\nThe authors explicitly acknowledge several limitations in their study:\n\nThe suitability model predicted the potential distribution of Ae. albopictus in the Taklamakan Desert area of southwestern Xinjiang in northwestern China, which is likely due to the lack of Ae. albopictus surveillance data and the sparse distribution of meteorological records in the area.\nThe projected future climate change has uncertainty as future trends in climate change may not be the same as those in the last 50 years. However, the authors suggest that the projected distribution of Ae. albopictus can be adjusted or the model calibrated when future data are updated.\nIn addition to the uncertainty in future global climate change, future population growth in China is also uncertain especially by 2050 and beyond. Recent birth/death records show a substantial downward trend in population growth in China. Since it is difficult to predict both the future population trend in China and population movement, there is an uncertainty for the prediction of future at-risk populations.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The first sentence explains the main findings of the study accurately and concisely. All limitations are described briefly, while not leaving out details."
+            ],
+            "Coverage": [
+                1,
+                "All limitaions are covered."
+            ],
+            "Coherence": [
+                2,
+                "Bullet points are used despite the instruction in the prompt to not include them, which is why it loses a point on coherence. Overall this does not make the summary worse or less readable, which is why it is still ranked second place overall."
+            ]
+        },
+        "rank": 2
+    }
+}

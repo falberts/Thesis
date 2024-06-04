@@ -1,0 +1,56 @@
+{
+    "ChatGPT": {
+        "summ": "The study found a significant association between sugar-sweetened beverage (SSB) consumption and postpartum depression (PPD) prevalence, both between and within countries, suggesting that policies targeting SSB consumption may help reduce PPD rates, while also highlighting the need for further research on dietary factors and PPD.\n\nThe authors explicitly acknowledge several limitations in the study. Firstly, they note that the use of a self-report measure for PPD may have resulted in higher prevalence estimates compared to clinical interviews. Secondly, while they utilized the Global Dietary Database for nutrition data, they acknowledge the inherent challenges in collecting accurate nutrition data. Lastly, they mention the ecological fallacy, cautioning that analyses based on area-level averages may yield different conclusions than individual-level analyses. These limitations underscore the need for caution in interpreting the findings and highlight areas for improvement in future research.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations mentioned in the original text are present in the summary."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations. The main finding of the text is explained in more detail than other summaries, while still being concise."
+            ]
+        },
+        "rank": 1
+    },
+    "Gemini": {
+        "summ": "The most important finding in this study is that sugary drink consumption is associated with a higher prevalence of postpartum depression.\n\nYes, the authors explicitly acknowledge several limitations of the paper. First, the study relied on self-reported PPD measures instead of clinical interviews, which may lead to overestimation of PPD prevalence. Second, collecting accurate dietary data is challenging and the study relied on a database that may have inaccuracies. Third, the study used aggregate data, and ecological fallacy may limit the generalizability of the findings to the individual level.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations mentioned in the original text are present in the summary."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations. The main finding of the study is not as complete as other summaries, which explain that the association between postpartum depression and sugar-sweetened bevarages exists both between and within countries."
+            ]
+        },
+        "rank": 2
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the consumption of sugar-sweetened beverages (SSBs) is associated with a higher prevalence of postpartum depression (PPD) both between and within countries.\n\nThe authors of the study explicitly acknowledge several limitations:\n\n1. The study relied on a widely used self-report PPD measure instead of clinical interviews. Self-report measures tend to yield higher estimates than clinical interviews, so the estimates in this study are likely higher than if interview-based methods were used. However, the authors argue that self-report measures are more common, especially in low-income countries, and therefore more representative. They also suggest that overestimating PPD might be safer than underestimating it, given its detrimental consequences.\n\n2. Collecting accurate nutrition data is challenging. The study used the Global Dietary Database, which has the most comprehensive empirical data on dietary intake across and within nations. However, it is difficult to identify inaccuracies within it.\n\n3. The study used aggregate data, which can lead to the ecological fallacy. This means that analyses based on area-level averages can yield very different conclusions than those that would be obtained from an analysis at the individual level. Therefore, the findings at the national level might not necessarily apply to individuals. \n\nThese limitations highlight the complexity of studying PPD and the need for further research in this area.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations mentioned in the original text are present in the summary."
+            ],
+            "Coherence": [
+                2,
+                "The summary uses bullet points despite the instructions in the prompt to not include them. However, the summary is still coherent and does not include hallucinations. Furthermore, the summary explains the nuances of some of the limitations, such as self report data being more common especially in low-income countries, and therefore more representative. This is why it still receives a 2 instead of a 1 in terms of coherence."
+            ]
+        },
+        "rank": 3
+    }
+}

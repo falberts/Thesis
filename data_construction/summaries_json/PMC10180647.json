@@ -1,0 +1,56 @@
+{
+    "ChatGPT": {
+        "summ": "The study highlights the significant impact of High-Fat Diets (HFDs) on the development and exacerbation of Polycystic Ovary Syndrome (PCOS) by elucidating the complex mechanisms linking HFDs to metabolic and reproductive outcomes in PCOS patients. \n\nThe authors do not explicitly acknowledge limitations of the paper.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in this summary is consistent with the source text."
+            ],
+            "Coverage": [
+                2,
+                "The summary correctly states that no limitations are provided by the authors. However, it is not discussed how the paper is a literature review and therefore would not include limitations. Also, the need for additional research is not mentioned in the summary."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        },
+        "rank": 3
+    },
+    "Gemini": {
+        "summ": "The study did not perform any original research but reviewed existing literature and found a potential correlation between high-fat diets (HFDs) and Polycystic Ovary Syndrome (PCOS), although the exact mechanisms and impacts require further investigation.\n\nNo limitations are provided by the authors. The authors acknowledge the need for further research but do not mention any limitations of the current review itself.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in this summary is consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors. Additionally, the summary explains how this is not an experimental study but a literature review. Furthermore, it is explained that the exact mechanisms linking high-fat diets and Polycystic Ovary Sundrome require further investigation"
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        },
+        "rank": 1
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that high-fat diets (HFDs) can exacerbate all metabolic and reproductive outcomes of Polycystic Ovary Syndrome (PCOS) patients, potentially correlating HFDs with PCOS, but the exact mechanisms and impacts require further investigation.\n\nRegarding the limitations, no limitations are provided by the authors in this document.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in this summary is consistent with the source text."
+            ],
+            "Coverage": [
+                2,
+                "The summary correctly states that no limitations are provided by the authors. Furthermore, it addresses the need for further research. However, the summary would be more complete if it is explained that the study is a literature review and therefore would not include limitations."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        },
+        "rank": 2
+    }
+}

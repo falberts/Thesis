@@ -1,0 +1,56 @@
+{
+    "ChatGPT": {
+        "summ": "The most important finding in this study is that a systematic combined approach of laparoscopic release of the median arcuate ligament (MAL) with stenting during the same procedure appears to be a feasible and safe technique for patients with Dunbar syndrome, potentially offering improved outcomes compared to traditional approaches.\n\nThe authors explicitly acknowledge limitations in their study. They highlight the retrospective design and small sample size, which constrain the statistical analyses. They note the rarity of the condition, with few authors presenting series of more than 10 cases, which limits the generalizability of their findings. Additionally, the study's focus on a single center and the lack of a control group for comparison may impact the broader applicability of their results. They also emphasize the need for systematic investigations in patients with incidental MAL findings, suggesting a potential bias towards more symptomatic cases in their cohort. However, the authors do not address potential biases inherent in retrospective studies or the possibility of confounding variables influencing their results",
+        "quality": {
+            "Factual consistency": [
+                3,
+                "The summary correctly explains the main finding of the study. Most information is correct, however the summary explains how the study's focus on a single center and lack of a control group may impact the broader applicability of the results. The summary also discusses a potential bias toward symptomatic cases. Both of these topics are not discussed explicitly by the authors as limitations and should not be included."
+            ],
+            "Coverage": [
+                3,
+                "The limitations of the study are all included. However, topics that were not discussed by the authors as limitations are included as well. These topics are the study's focus on a single center and lack of a control group, as well as there being a potential bias toward more symptomatic cases."
+            ],
+            "Coherence": [
+                3,
+                "The summary is coherent and understandable, however it includes limitations that are not mentioned by the authors, such as the lack of control group and a bias toward more symptomatic cases. It derives limitations from the source text instead of only listing limitations that are mentioned explicitly by the authors."
+            ]
+        },
+        "rank": 3
+    },
+    "Gemini": {
+        "summ": "The most important finding in this study is that laparoscopic release of Median Arcuate Ligament (MAL) combined with stenting seems to be a safe and feasible approach for treating Dunbar Syndrome.\n\nThe authors explicitly acknowledge limitations of the paper. The limitations include the retrospective design of the study and the small sample size. The authors mention that only a few studies have included more than 10 cases. These limitations make the statistical analysis less robust.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The main finging of the study is correctly explained. The summary briefly and correctly states all of the limitations provided by the authors."
+            ],
+            "Coverage": [
+                1,
+                "All limitations are mentioned in the summary."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        },
+        "rank": 1
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the systematic combined approach of a laparoscopic release of Median Arcuate Ligament (MAL) with stenting during the same procedure seems to be a feasible and safe technique, and it is suggested that every patient with an incidental finding of an MAL should undergo systematic investigations.\n\nThe authors explicitly acknowledge the limitations of their study. They mention that the statistical analyses are limited by the retrospective design of the study and the small sample size. They also note that only a few authors have presented a series of more than 10 cases. Despite these limitations, they believe that their findings are significant due to the experience acquired in their center. They also suggest that further studies with larger sample sizes are needed to validate their findings. No other limitations are provided by the authors.",
+        "quality": {
+            "Factual consistency": [
+                3,
+                "The main finding of the study is correctly explained. The limitations provided in the rest of the summary are all correct. However, the summary explains that the authors suggest that further studies with larger sample sizes are needed to validate their findings, however this is not mentioned explicitly by the authors."
+            ],
+            "Coverage": [
+                1,
+                "All limitations are mentioned in the summary."
+            ],
+            "Coherence": [
+                3,
+                "The text is mostly coherent but it hallucinates the authors' suggestion that further studies with larger sample sizes are needed. This is not explicitly discussed by the authors."
+            ]
+        },
+        "rank": 2
+    }
+}

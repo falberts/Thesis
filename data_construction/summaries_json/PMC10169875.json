@@ -1,0 +1,56 @@
+{
+    "ChatGPT": {
+        "summ": "The study investigates the impact of time to surgery (TTS) on the outcomes of surgically treated hepatocellular carcinoma (HCC) patients, finding that TTS was not a significant risk factor for reduced recurrence-free survival (RFS) or overall survival (OS). The authors identify various prognostic factors for OS and RFS, highlighting the importance of factors such as age, ASA score, preoperative INR, multifocal disease, largest nodule diameter, and presence of microvascular invasion (MVI).\n\nThe authors do acknowledge several limitations of the study. Firstly, the monocentric nature of the study may limit the generalizability of the findings, as they reflect the practices of a single hepatobiliary center and may not be applicable to other centers with different approaches to HCC management. Additionally, the study's focus on a European cohort may limit the transferability of the results to Asian patients due to potential etiological differences in HCC. Furthermore, the authors note that they are unable to report on patients who dropped from surgical treatment plans due to disease progression during the waiting period for surgery, potentially underestimating the impact of TTS on patient outcomes. Finally, the authors suggest that a larger, multicentric dataset would be needed to confirm and further explore the findings of this study.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                3,
+                "The summary covers most limitations provided by the authors. However, it leaves out how a statistically significant benefit could be detectable in a larger data set despite finding no indication of a relevant effect for shorter TTS. The summary mentions using a larger, multicentric dataset briefly at the end, but this could be explained in more detail."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        },
+        "rank": 3
+    },
+    "Gemini": {
+        "summ": "The authors found that time to surgery (TTS) was not associated with overall survival (OS) or recurrence-free survival (RFS) in patients with hepatocellular carcinoma (HCC) undergoing curative-intent surgery.\n\nYes, the authors explicitly acknowledge limitations of the paper. The limitations include:\n\n* The monocentric setting, where the data may not reflect clinical standards of other centers.\n* Potential limitations in generalizability to Asian patients due to etiologic differences.\n* The study not being able to report on patients who dropped out of surgical plans due to disease progression during waiting time, as most TTS was based on time from diagnosis to presentation at their center and not waiting time for surgery. \n* The possibility that a statistically significant benefit of shorter TTS might be found in a larger dataset, although their analysis did not indicate a relevant effect.\n* Their results warranting further investigations in larger multicentric datasets due to the monocentric nature of the study.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary covers all limitations mentioned by the authors."
+            ],
+            "Coherence": [
+                2,
+                "The summary is coherent and does not include hallucinations. Bullet points are used despite the instructions in the promt to not include bullet points, however this does not necessarily make the summary less coherent or readable."
+            ]
+        },
+        "rank": 2
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the time to surgery (TTS) was not a risk factor for reduced recurrence-free survival (RFS) and overall survival (OS) in hepatocellular carcinoma (HCC) patients undergoing curative-intent surgery.\n\nRegarding the limitations, the authors explicitly acknowledge several. Firstly, the study is monocentric, reflecting the authors' individual approach to HCC, which might differ from clinical standards of other hepatobiliary centers. Secondly, due to etiological differences, the implications might not be transferable to Asian patients. Thirdly, the study does not report on patients dropping from surgical treatment plans due to progression during waiting time. Most of the TTS interval was based on the time from diagnosis to initial presentation to the hepatobiliary unit and not on the waiting time for surgery. Lastly, the authors mention that their results warrant further investigations in larger, multicentric data sets. They also speculate that a statistically significant benefit might be detectable in a larger data set for patients with short TTS. However, they found no indication for a relevant effect of a shorter TTS in their study.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary covers all limitations mentioned by the authors."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        },
+        "rank": 1
+    }
+}

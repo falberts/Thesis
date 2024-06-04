@@ -1,0 +1,56 @@
+{
+    "ChatGPT": {
+        "summ": "The study reports a rare case of a pediatric patient with a schwannoma arising from the lateral wall of the nasopharynx, highlighting the importance of considering schwannomas in the differential diagnosis of head and neck masses and the necessity for early otolaryngology consultation to avoid misdiagnosis and delays in treatment.\n\nThe authors acknowledge several limitations in their paper. Firstly, they note that nonspecific symptoms were initially mistaken for a routine infection, leading to misdiagnosis and delayed management, suggesting a need for increased awareness among clinicians to consider schwannomas in their initial differential diagnosis of intraoral or pharyngeal tumors. Secondly, they mention that schwannomas are often not considered in the initial evaluation of pharyngeal masses, being frequently mistaken for other types of tumors, which can lead to delays in diagnosis and treatment. Finally, they emphasize the importance of imaging and pathological evaluation for accurate diagnosis, suggesting that reliance on clinical symptoms alone may not be sufficient for timely identification of schwannomas.",
+        "quality": {
+            "Factual consistency": [
+                3,
+                "The summary incorrectly states that limitations are provided by the authors."
+            ],
+            "Coverage": [
+                3,
+                "The summary incorrectly concludes that the authors acknowledge several limitations in their paper. These aspects are mentioned in the original paper but are never explicitly addressed as limitations by the authors themselves."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        },
+        "rank": 3
+    },
+    "Gemini": {
+        "summ": "This study reports the first case of a pediatric patient with a schwannoma arising from the lateral wall of the nasopharynx and measuring greater than 5 cm in maximum dimension.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "Factual consistency": [
+                2,
+                "The information about the study is correct in regards to the original paper. However, the main finding should include information on the diagnosis and treatment of schwannomas."
+            ],
+            "Coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        },
+        "rank": 2
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the definitive diagnosis of schwannomas relies on post-excision histopathological analysis, with the diagnosis confirmed through microscopic examination demonstrating Antoni A and B areas and Verocay bodies, along with the expression of S100 on immunohistochemistry stains.\n\nRegarding the limitations of the paper, no limitations are provided by the authors.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        },
+        "rank": 1
+    }
+}
