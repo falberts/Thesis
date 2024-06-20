@@ -1,0 +1,5 @@
+The most important finding in this study is that occupational exposure as a firefighter was positively associated with cancer incidence and mortality for several sites including bladder, testis, prostate, thyroid, and colon cancer, as well as mesothelioma, NHL, and melanoma, although findings are subject to influencing factors such as bias and plausibility of exposures.
+
+Regarding limitations, the authors acknowledge the substantial influence of bias in studies on cancer in firefighters and evaluate it through sensitivity analyses. They also highlight the complex nature of exposures to carcinogenic hazards in the occupation and the changes in exposure types and levels over time. The authors also mention the lack of cause-of-death codes for mesothelioma in older cohort studies and the potential role of confounding from asbestos exposure outside of the firefighting occupation.
+
+No explicit limitations regarding statistical methods were mentioned in the text. Therefore, any assumptions about statistical limitations should be based on the context and assumptions made in the methods section, rather than being explicitly stated in the discussion.

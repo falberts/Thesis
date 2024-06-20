@@ -1,0 +1,17 @@
+The study reports that MAL resection with stenting during the same procedure is a safe and effective approach for patients with DS, as demonstrated in a series of 13 patients, with a low conversion rate and fewer postoperative complications in the DG compared to the BG. The authors suggest that every patient with an incidental finding of an MAL should undergo systematic investigations, and in symptomatic cases, a laparoscopic release of the MAL and stenting of TC or SMA should be considered. No explicit limitations are mentioned by the authors.
+[RANK: 1]
+[EXPLANATION: Factual consistency: 1, The summary accurately reflects the main finding and key information in the provided text.
+
+Coverage: 1, The summary covers all important aspects mentioned in the document about the study and its findings.
+
+Coherence: 1, The summary flows logically from one point to the next and remains focused on the study's findings.]
+
+The authors present a case series involving 13 patients with Dunbar syndrome (DS) who underwent MAL resection and stenting as part of the same procedure. They report that all patients were successfully treated, with two major complications resulting from stent complications—stent occlusion and CT dissection. No clear evidence exists regarding the need for and timing of endovascular revascularization. The authors suggest a systematic combined approach of laparoscopic MAL release and stenting as a safe and feasible technique. They propose that every patient with an incidental finding of an MAL should undergo evaluations. Limitation-wise, the study may be limited by its retrospective design and small sample size.
+[RANK: 2]
+[EXPLANATION: Factual consistency: 1, The summary accurately reflects the main finding and key information in the provided text.
+
+Coverage: 1, The summary covers all important aspects mentioned in the document about the study and its findings.
+
+Coherence: 2, The summary remains focused on the main findings but may include additional information that could be considered context or background, rather than being directly related to the study's contributions.]
+
+This study describes a case series of 13 patients with Dunbar syndrome who underwent MAL

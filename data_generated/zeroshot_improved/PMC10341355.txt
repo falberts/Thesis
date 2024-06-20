@@ -1,0 +1,11 @@
+The study found that common VMI abnormalities, including epiretinal membrane (ERM), posterior vitreous detachment (PVD), and vitreomacular adhesion (VMA), have a heritable component, with heritability estimates ranging from 38.9% to 53.2%. The authors suggest that future genetic studies, such as genome-wide association studies (GWAS), could help elucidate mechanisms and identify potential treatments.
+
+The authors acknowledge several limitations of their study:
+
+1. The study used a self-reported questionnaire to identify secondary causes of VMI abnormalities, which may introduce bias. However, they found that removing these secondary causes had little effect on the concordances of ERM, PVD, and VMA.
+
+2. The sample size was not large enough to estimate the heritability of the subtypes of VMA or fully examine the heritability of FTMH, LMH, and VMT.
+
+3. Differences in prevalence estimates and diagnostic methods for VMI abnormalities between studies may be due to variations in imaging protocols, devices, and classifications. They suggest that an international consensus on ERM classification may help ensure better comparability between studies.
+
+4. The authors did not assess the impact of VMI abnormalities on visual function, as participants did not undergo any visual acuity measurements. They also did not have enough power to estimate heritability in LMH and MH due to their low prevalence in the population. Lastly, the sample consisted primarily of elderly, White Caucasian women, which may limit the generalizability of the findings to other populations.

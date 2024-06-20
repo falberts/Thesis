@@ -1,0 +1,7 @@
+The most important finding in this study is that common vitreomacular interface (VMI) abnormalities, including epiretinal membrane (ERM), posterior vitreous detachment (PVD), and vitreomacular adhesion (VMA), are heritable.
+
+Regarding limitations, the authors acknowledge that their study is underpowered to examine heritability and concordance for all VMI abnormalities, including foveal tissue morphology, lamellar and full-thickness macular holes, and lattice degeneration. They also note that the prevalence and grading of VMI abnormalities vary between studies due to differences in imaging techniques, classification systems, and participant demographics. The authors also acknowledge that environmental factors, such as age and vitreous liquefaction, may contribute to the development of VMI abnormalities.
+
+They mention that the diagnostic accuracy of vitreomacular interface abnormalities using SD-OCT may be subject to limitations, such as differences in image quality and sensitivity between different devices and imaging protocols. Additionally, they acknowledge that the heritability and concordance of VMI abnormalities may be influenced by shared familial environmental factors that could not be fully controlled for in this study. They suggest that future studies using larger sample sizes and more advanced imaging techniques may help clarify the contributions of genetic and environmental factors to the development of VMI abnormalities.
+
+No other explicit limitations were mentioned in the text provided.

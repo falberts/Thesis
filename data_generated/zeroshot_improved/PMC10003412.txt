@@ -1,0 +1,9 @@
+The most important finding of this study is that recombinant VLPs derived from the major capsid protein VP1 of nine different Human Polyomaviruses (HPyVs) were shown to be immunogenic and able to induce both humoral and cellular immune responses in a mouse model. Additionally, uptake of these VLPs by primary mouse macrophages was demonstrated, suggesting their subsequent presentation for inducing a cell-mediated response. Cross-reactivity was observed between antibodies generated against different HPyV VP1 VLPs, indicating high antigenic similarity among PyV VP1 proteins and potential for cross-immunity to multiple PyVs.
+
+The authors acknowledged several limitations of their study: although they demonstrated the uptake of HPyV VP1 VLPs by primary mouse macrophages, the impact of these particles on the downstream immune response and the activation of professional antigen-presenting cells was not specifically investigated; the specific antibody response to the heterologous PyV VP1 VLPs was not measured in detail and only IgG formation was assessed; and, the results obtained from their mouse model may not be directly applicable to humans due to species differences in immune responses. Additionally, the study did not assess the interference of pre-existing immunity with the immune response to the VLPs, which may impact their potential use in vaccine development.
+
+Explicitly mentioned limitations:
+- Impact of HPyV VP1 VLPs on downstream immune response and activation of professional antigen-presenting cells not specifically investigated
+- Detailed investigation of specific antibody response to heterologous PyV VP1 VLPs not performed, only IgG formation assessed
+- Results obtained in mouse model may not be directly applicable to humans due to species differences
+- Interference of pre-existing immunity with immune response to VLPs not assessed.

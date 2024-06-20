@@ -1,0 +1,10 @@
+The largest meta-analysis and meta-regression on postpartum depression (PPD) prevalence revealed a global unadjusted prevalence of 19.18% (95% CI: 18.02 to 20.34%), with significant cross-national variation influenced by SSB consumption. SSB consumption was the strongest individual predictor of higher PPD prevalence, both between- and within- countries.
+
+The authors explicitly acknowledge several limitations:
+
+1. The analysis relied on self-reported PPD measures, which tend to yield higher estimates than clinical interviews, potentially overestimating PPD prevalence.
+2. The dietary data used was collected through a global database, which may have inaccuracies and limitations.
+3. The analysis employed aggregate data, which may not represent individual-level findings, potentially leading to different conclusions from individual-level studies.
+4. The findings did not differentiate between types of depression, such as major versus minor.
+
+Overall, this study sheds light on the significant cross-national variation in PPD prevalence and identifies SSB consumption as a potential risk factor. However, the limitations, such as the use of self-reported measures and potential inaccuracies in dietary data, must be considered when interpreting the results. Future research should focus on clinical interviews and more accurate dietary data to provide more precise prevalence estimates and insights into specific risk factors.
