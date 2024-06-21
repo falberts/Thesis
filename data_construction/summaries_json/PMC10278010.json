@@ -7,7 +7,7 @@
                 "The information in the summary is consistent with the source text."
             ],
             "Coverage": [
-                2,
+                3,
                 "The limitations provided in the summary are mentioned by the authors in the original text. However, they are not clearly framed as limitations of the study as much as directions for future research. This makes this summary a difficult case in terms of listing the limitations. Replacing 'the authors explicitly acknowledge several limitations...' with something along the lines of 'the authors acknowledge future directions that could improve the robustness of the study...' would be a potential improvement."
             ],
             "Coherence": [

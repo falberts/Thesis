@@ -1,0 +1,185 @@
+[START TEXT]Emergence of recurrent epidemic waves of COVID-19 is a systemic phenomenon and its quantitative understanding remains an elusive target. Typically, several interacting factors contribute to recurrent dynamics. Firstly, the population structure in the modern world is highly heterogeneous: not only at the level of individual households and local government areas, but also at the regional, national and international level. This heterogeneity forces the infection transmission to follow complex paths, producing distinct urban and rural waves, disproportionate effects on high- and low-density housing, as well as in the areas characterised by socioeconomic disadvantage profiles and higher concentrations of essential workers. Thus, while infection rates may decline in some areas, they may escalate in others.
+Secondly, the population compliance with various stay-at-home orders and adoption of social distancing requirements fluctuates in time: strong initial adherence is typically replaced by sizable fatigue and rarely recovers beyond moderate compliance, thus reducing effectiveness of NPIs. This fatigue cannot be exclusively attributed to “contrarian” individuals and affects broad population groups.
+Thirdly, vaccine efficacy wanes over time, requiring booster vaccine doses, which temporarily reestablish protective immunity. Independently, following a typically strong initial vaccination uptake, “the fully up to date” vaccinated population fraction slowly reduces over time, undergoing possible upswings when the risk perception increases. Similar to the NPI fatigue, this dynamic is driven not only by “anti-vaxxer” groups, but may depend on access to and knowledge about vaccination, and involve several drivers of vaccine hesitancy, including confidence, complacency, altered risk calculation, and limited collective responsibility.
+In addition, the testing, tracing, isolation and quarantine (TTIQ) capacities themselves may be under stress during rapidly growing outbreaks, diminishing their role in curbing the epidemic. The TTIQ capacities were severely strained in Australia during the rise of the Omicron variant, leading to a decline in their effectiveness. Moreover, delays in imposing strict NPIs or initiating vaccination rollouts amplify non-linearly, so that short response lags cause long recovery tails. All these cyclical spatiotemporal dynamics may combine over time, creating vicious feedback loops and superposition of interacting waves.
+In this study, we sought to increase our understanding of the mechanisms generating multiple pandemic waves. We specifically modelled a pandemic response to the emergence and spread of highly transmissible variant of SARS-CoV-2 (Omicron and its sub-lineages) during the fourth pandemic stage in Australia. This stage produced several local incidence peaks, and we identified the corresponding phases (see Fig 1), followed by retrospective modelling of dynamic social distancing behaviour.
+Importantly, the identification of distinct phases did not reduce the analysis to a description of well-defined waves, but rather attributed the incidence peaks and patterns to nuanced combinations of new sub-variants and fluctuations in social distancing behaviour. For example, the secondary peak in mid-April of 2022 (see phase 6 in Fig 1) was explained not only by the emergence of BA.2 which started to dominate the preceding BA.1, but also by the reduced adoption of social distancing requirements.
+The main result of this modelling is that the fraction of SD-adopters was found to be fluctuating in response to the incidence dynamics. Essentially, these changes appeared in response to the pandemic dynamics observed by the population, sometimes lagging behind and occasionally preempting pandemic turns.
+Using the actual incidence data and simulated scenarios which varied the extent of SD-adoption across time, we “retrodictively” determined the dynamically fluctuating SD-adoption profile that produced the incidence curves matching the observations. The resultant incidence curves were further contrasted with the curves produced by alternative scenarios defined by static SD-adoption. The comparison clearly demonstrated that, unlike the dynamic SD-adoption, the static alternatives failed to reproduce key non-linear features of the incidence trajectories. This indicated that the fraction of individuals adopting (or complying with) social distancing requirements may greatly vary over time, especially during a long pandemic. Hence, public health policies must adequately account for this variability, acknowledging and addressing possible fatigue and complacency within the population. Timely, rapidly designed and focused communication campaigns may be needed to reinforce the importance of continuing social distancing in controlling persistent spread and reducing the public health burden.
+The study also suggested, albeit indirectly, that the increased incidence observed during the last wave induced by sub-variants BA.4 and BA.5 (Fig 1: phase 7) was mostly driven by reinfections or new infections in vaccinated individuals with low or waning vaccine effectiveness, rather than new infections of the epidemiologically or immunologically “naïve” population. Testing for antibodies in Australia between 9 and 18 June 2022 provided an indication of the extent of cumulative exposure in the community to vaccination and/or natural infection: the prevalence of anti-spike antibodies, elicited by both vaccination and natural infection, was found to be very high (99%) across all jurisdictions, while the prevalence of anti-nucleocapsid antibodies, elicited by natural infection, reached 46%. The finding of our study, which emphasised re-infections and low or diminishing vaccine efficacy as key factors during phase 7, pointed to the need for agile “booster” vaccination campaigns, to raise immunity levels within the population during protracted pandemic stages.
+We estimated the corresponding disease burden (the hospitalisations, ICU occupancy, and daily and cumulative deaths), and compared it with the actual data. A good agreement between the simulated and actual disease burden data reinforced the point that the observed nonlinear dynamics are produced not simply by transitions across sub-variants of Omicron, but also in response to varying adoption of social distancing behaviour. The analysis also quantified and emphasised indirect effects of COVID-19 on the disease burden in Australia, differentiating between ICU cases directly attributable to COVID-19 versus those occurring with COVID-19. This distinction highlighted the need for a precise attribution of underlying conditions associated with ICU admissions during a long pandemic.
+Several limitations of the study have to be acknowledged. Firstly, the simulated population was generated using the latest available Australian Census data from 2016 (23.4M individuals) and may not be precisely representative of 2021–2022 period of time. However, the generated curves were scaled by 10% to reflect the current Australian population (25.8M). Secondly, the ABM does not simulate transmissions within healthcare facilities. However, health care professionals were vaccinated over several priority phases carried out in Australia in 2021 and 2022 and mask mandates were in place in health care facilities in these time periods, reducing the effect of this limitation. Furthermore, while vaccine efficacy is known to diminish over time, we did not model this explicitly, and considered this effect to be balanced by third vaccination doses administered in Australia during the studied period (e.g., 71.6% of Australian adults had received 3 doses by August 2022). In contrast to the greatly fluctuating SD-adoption, a decline in the vaccine efficacy is known to be monotonic, while our focus was on modelling multiple peaks of distinct waves within a single pandemic stage.
+In conclusion, the understanding of the impact of the Omicron variant on the COVID-19 pandemic continues to be refined, and our results may benefit from additional analysis of the latest Omicron sub-variants. Nevertheless, the quantitative retrospective modelling presented in this study highlighted the impact of fluctuating social distancing behaviour on the resultant pandemic dynamics, revealing nuanced reasons for persistence of the Omicron variant in Australia. The developed model, validated with actual data from the Omicron stage in Australia, captures multiple dynamic factors which non-linearly affect the pandemic spread, and hence, can be used to evaluate and contribute to agile, adaptive and multi-faceted public health responses in the future.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study highlights the impact of fluctuating social distancing behavior on the dynamics of the Omicron variant in Australia, emphasizing the need for agile public health responses.\n\nThe authors explicitly acknowledge several limitations in the study. Firstly, they note that the simulated population may not precisely represent the population during the studied period, although efforts were made to scale the data accordingly. Secondly, the model does not simulate transmissions within healthcare facilities, although mitigating factors such as vaccination of healthcare professionals and mask mandates were in place. Additionally, while vaccine efficacy wanes over time, this effect was not explicitly modeled, with the assumption that it was balanced by third vaccination doses administered during the studied period. Finally, the authors focus on modeling multiple peaks of distinct waves within a single pandemic stage, rather than capturing the monotonic decline in vaccine efficacy.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                3,
+                "The summary includes most limitations, but it does not include how the study could benefit from additional analysis of the latest Omicron sub-variants. Though this is not explicitly stated as a limitation, it is incuded in the conclusion  paragraph and should still be mentioned to better interpret the findings. Additionally, the authors' not capturing the monotonic decline in vaccine efficiency ties in to the third limitation, and should not be included as a separate limitation."
+            ],
+            "Coherence": [
+                2,
+                "The main finding of the study is not presented in enough detail. It does not state that fluctuating social distancing behavior was, in part, driving the persistent waves of the Omicron variant of COVID-19 in Australia, according to the authors."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "The most important finding in this study is that fluctuating social distancing behavior, rather than just the emergence of new subvariants, is a key factor driving the multiple waves of the Omicron variant of COVID-19 in Australia.\n\nThe authors explicitly acknowledge several limitations of the study. First, the simulated population was based on Australian Census data from 2016, which may not perfectly reflect the population in 2021-2022. Second, the model did not account for transmission within healthcare facilities. Third, while the authors acknowledge that vaccine efficacy wanes over time, they did not explicitly model this because they considered it balanced by booster shots.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                2,
+                "The main finding of the study is explained in detail. Furthermore, the summary includes all limitations that are mentioned explicitly. Though this is not necessarily incorrect, the summary could benefit by including how additional analysis of the latest Omicron sub-variants could improve the study's results."
+            ],
+            "Coherence": [
+                1,
+                "The text is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the fluctuating adoption of social distancing behavior in response to the dynamics of the COVID-19 pandemic, combined with the emergence of new sub-variants of the virus, significantly influenced the incidence patterns and disease burden in Australia during the Omicron stage of the pandemic.\n\nThe authors of the study explicitly acknowledge several limitations:\n\n- The simulated population was generated using the Australian Census data from 2016, which may not be precisely representative of the 2021-2022 period. However, the generated curves were scaled by 10% to reflect the current Australian population.\n- The Agent-Based Model (ABM) used in the study does not simulate transmissions within healthcare facilities. However, this limitation is somewhat mitigated by the fact that health care professionals were vaccinated over several priority phases carried out in Australia in 2021 and 2022 and mask mandates were in place in health care facilities during these periods.\n- While vaccine efficacy is known to diminish over time, this was not modeled explicitly in the study. Instead, this effect was considered to be balanced by third vaccination doses administered in Australia during the studied period.\n- The focus of the study was on modeling multiple peaks of distinct waves within a single pandemic stage, and therefore, the decline in vaccine efficacy, which is known to be monotonic, was not the main focus.\n- Lastly, the study's results may benefit from additional analysis of the latest Omicron sub-variants, which were not included in the current study. \n\nThese limitations highlight the complexity of modeling and understanding the dynamics of the COVID-19 pandemic. Despite these limitations, the study provides valuable insights into the impact of social distancing behavior and the emergence of new virus sub-variants on the pandemic's progression.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The main finding of the study is explained in detail. Furthermore, all limitations of the study are included, and the summary mentions how additional analysis of the latest Omicron sub-variants could aid in improving the study's results. This is not stated explicitly as a limitation, however it helps to interpret the results of the study and makes the summary more complete."
+            ],
+            "Coherence": [
+                1,
+                "The text is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The study found that the fraction of individuals adopting social distancing requirements fluctuated in response to pandemic dynamics, impacting incidence trajectories, and emphasized the need for agile communication campaigns to address potential fatigue and complacency. The authors also acknowledged several limitations, including the use of outdated census data for population generation, absence of simulating transmissions within healthcare facilities, and the assumption that vaccine efficacy declines are offset by booster doses. They acknowledge that the results may benefit from further analysis of the latest Omicron sub-variants.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The most important finding of this study is that the fraction of individuals adopting social distancing requirements fluctuated in response to the COVID-19 pandemic dynamics, producing non-linear features in incidence trajectories that could not be reproduced by static alternatives.\n\nThe authors acknowledge several limitations of their study. Firstly, they used simulation population data generated from the latest available Australian Census data from 2016, which may not be precisely representative of the population during the pandemic period. They addressed this limitation by scaling the curves to reflect the current Australian population size. Secondly, their agent-based model did not simulate transmissions within healthcare facilities, but note that vaccine rollouts and mask mandates in healthcare facilities during the studied period reduced the impact of this limitation. Thirdly, they did not model the decline in vaccine efficacy explicitly, assuming it was balanced by third vaccination doses administered during the studied period. They acknowledge that this is a simplification, as the decline in vaccine efficacy is known to be monotonic, while the focus of their study was on modelling multiple peaks of distinct waves within a single pandemic stage.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this study is that the pandemic dynamics in a modern heterogeneous population are complex and driven by several interacting factors, including population heterogeneity, compliance with NPIs, vaccine efficacy waning over time, and capacities for testing, tracing, isolation, and quarantine. The authors used a pandemic response model to identify distinct incidence peaks and attributed them to a combination of sub-variants and fluctuations in social distancing behavior. The study found that the fraction of individuals adopting social distancing requirements varies over time, and this dynamic behavior is crucial for reproducing the observed incidence curves. The authors also suggested that during the last wave, reinfections or infections in vaccinated individuals with waning vaccine effectiveness were key factors behind the increased incidence, and agile \"booster\" vaccination campaigns may be needed to raise immunity levels during prolonged pandemic stages.\n\nThe authors acknowledged some limitations of their study. Firstly, the simulated population was generated using the 2016 Australian Census data, which may not be precisely representative of the 2021\u20132022 period. Secondly, the agent-based model did not simulate transmissions within healthcare facilities, but healthcare professionals were vaccinated and mask mandates were in place in these settings. Thirdly, the authors did not model the explicit decline in vaccine efficacy and considered it to be balanced by third vaccination doses administered in Australia during the study period.\n\nThe authors emphasized that their results may benefit from additional analysis of the latest Omicron sub-variants and that the study contributes to the understanding of multiple dynamic factors that non-linearly affect pandemic spread and can be used for evaluating and contributing to adaptive public health responses in the future.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that dynamic social distancing behavior significantly impacts the COVID-19 pandemic dynamics, causing non-linear features and requiring public health policies to account for the variability in population compliance.\n\nThe authors explicitly acknowledge several limitations of the study:\n\n1. The simulated population may not be precisely representative of the 2021\u20132022 period due to outdated demographic data.\n2. Transmissions within healthcare facilities were not simulated; however, vaccinations and mask mandates partially mitigate this limitation.\n3. Explicit modeling of the declining vaccine efficacy over time was not included, which is known to impact pandemic dynamics. The authors considered this effect to be counterbalanced by third vaccination doses administered during the studied period.\n\nAdditionally, it's important to note that while the authors have acknowledged some limitations, it's always important to consider potential limitations not explicitly mentioned. For example, the study may not capture the impact of other factors such as changes in population behaviors, travel restrictions, regional policies, and the effects of new variants that emerged after the studied period.\n\nOverall, it's important to remember that understanding and predicting complex systems like the COVID-19 pandemic involves multiple interacting factors, and any model or analysis will have inherent limitations and challenges. It's critical to continually refine the models, incorporate new data, and update assumptions to better understand the dynamics of the system and inform public health policies.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding of the study is that population structure heterogeneity, varying compliance with NPIs, and waning vaccine efficacy contribute to recurrent COVID-19 epidemic waves. The authors used a pandemic response modeling approach in Australia during the fourth pandemic stage and found that social distancing adoption is a critical factor affecting the incidence dynamics. They emphasized the need for timely communication campaigns and agile booster vaccination campaigns. The study also suggested that infections during the last wave were mostly driven by reinfections or low/waning vaccine effectiveness.\n\nLimitations of the study include the use of outdated population data, lack of modeling for transmissions in healthcare facilities, and not considering the explicit decline in vaccine efficacy in their model. The authors acknowledge that their results could benefit from further analysis of the latest Omicron sub-variants. They also note that their model may be used to contribute to future agile, adaptive, and multi-faceted public health responses.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

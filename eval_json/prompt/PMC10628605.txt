@@ -1,0 +1,177 @@
+[START TEXT]Typically, 25%-45% of schwannomas occur in the head and neck region and are most common between the second and fifth decade of life. The majority of schwannomas in this region are reported to occur in the parapharyngeal spaces. Most schwannomas are sporadic, while rare cases can be associated with neurofibromatosis type I or II. An estimated 50% of parapharyngeal schwannomas originate from the vagus nerve, with the next most common site being the cervical sympathetic chain. Pediatric schwannomas are rare and account for less than 10% of all schwannomas. There is only one published case report by Zhu et al. documenting a pharyngeal schwannoma in a pediatric patient, which originated from the posterior oropharyngeal wall and measured 2.5 cm in size. Our report represents the first published case of a pediatric patient with a schwannoma arising from the lateral wall of the nasopharynx and measuring greater than 5 cm in maximum dimension.
+Schwannomas of the head and neck region often present as asymptomatic grossly visible masses or with localized obstructive symptoms such as dysphagia, globus sensation, voice changes, or difficulty breathing. Patients often delay presentation for care for many months, and initial misdiagnosis commonly leads to further delay in treatment. As in this case, nonspecific symptoms were mistaken for a routine infection by the emergency department providers and led to a misdiagnosis and delay in definitive management. An otolaryngology consultation at the time of this patient's initial presentation may have prompted an earlier diagnosis. The otolaryngologist's expertise in the head and neck exam as well as an earlier referral for head and neck imaging would have been helpful in expanding the clinical workup of this patient's complaints.
+Many clinicians report that schwannoma is not in their initial differential diagnosis when they evaluate an intraoral or pharyngeal tumor. Intraoral schwannomas are most often mistaken for other mesenchymal tumors or epithelial tumors. Several conditions that are important to consider when evaluating a mass in the pharynx include a salivary gland tumor, neurofibroma, paraganglioma, hairy polyp, or other neurogenic or malignant tumor . Diagnosis of head and neck schwannomas usually includes imaging and pathological evaluation to differentiate them from other possible tumors. Computed tomography (CT) and magnetic resonance imaging (MRI) are used initially to inform clinical decision-making and can be expected to show well-circumscribed soft tissue lesions.
+Surgical excision is the standard treatment for schwannomas, and there is typically a low rate of recurrence or complications. Although the nerve of origin is rarely identified, excision without nerve isolation has been shown to be safe with a low risk of neurologic complications. The fibrous capsule and hypovascularity typical of schwannomas aid in safe excision, although surgery can be more complex depending on tumor location. The definitive diagnosis of schwannomas relies on post-excision histopathological analysis. The diagnosis is confirmed with microscopic examination demonstrating Antoni A and B areas and Verocay bodies along with expression of S100 on immunohistochemistry stains.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study reports a rare case of a pediatric patient with a schwannoma arising from the lateral wall of the nasopharynx, highlighting the importance of considering schwannomas in the differential diagnosis of head and neck masses and the necessity for early otolaryngology consultation to avoid misdiagnosis and delays in treatment.\n\nThe authors acknowledge several limitations in their paper. Firstly, they note that nonspecific symptoms were initially mistaken for a routine infection, leading to misdiagnosis and delayed management, suggesting a need for increased awareness among clinicians to consider schwannomas in their initial differential diagnosis of intraoral or pharyngeal tumors. Secondly, they mention that schwannomas are often not considered in the initial evaluation of pharyngeal masses, being frequently mistaken for other types of tumors, which can lead to delays in diagnosis and treatment. Finally, they emphasize the importance of imaging and pathological evaluation for accurate diagnosis, suggesting that reliance on clinical symptoms alone may not be sufficient for timely identification of schwannomas.",
+        "quality": {
+            "Factual consistency": [
+                3,
+                "The summary incorrectly states that limitations are provided by the authors."
+            ],
+            "Coverage": [
+                3,
+                "The summary incorrectly concludes that the authors acknowledge several limitations in their paper. These aspects are mentioned in the original paper but are never explicitly addressed as limitations by the authors themselves."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "This study reports the first case of a pediatric patient with a schwannoma arising from the lateral wall of the nasopharynx and measuring greater than 5 cm in maximum dimension.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "Factual consistency": [
+                2,
+                "The information about the study is correct in regards to the original paper. However, the main finding should include information on the diagnosis and treatment of schwannomas."
+            ],
+            "Coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the definitive diagnosis of schwannomas relies on post-excision histopathological analysis, with the diagnosis confirmed through microscopic examination demonstrating Antoni A and B areas and Verocay bodies, along with the expression of S100 on immunohistochemistry stains.\n\nRegarding the limitations of the paper, no limitations are provided by the authors.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The document describes the first reported case of a pediatric patient with a large schwannoma (greater than 5 cm) arising from the lateral wall of the nasopharynx, emphasizing the importance of early diagnosis and referral to otolaryngology specialists for head and neck masses.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The authors report the first published case of a pediatric patient with a schwannoma arising from the lateral wall of the nasopharynx, which is larger than 5 cm in maximum dimension. No limitations are provided by the authors.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this document is the presentation of a rare case of a pediatric patient with a schwannoma in the lateral wall of the nasopharynx. The document also discusses the challenges in diagnosing schwannomas due to their nonspecific symptoms and the importance of early recognition and referral to an otolaryngologist. No limitations were explicitly mentioned by the authors.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding of this case report is the presentation of a pediatric schwannoma arising from the lateral wall of the nasopharynx, which is the first such reported case. No limitations were explicitly mentioned by the authors.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this case report is the presentation of a pediatric schwannoma arising from the lateral wall of the nasopharynx and exceeding 5 cm in maximum dimension, which is a rare occurrence.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

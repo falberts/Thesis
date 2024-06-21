@@ -1,0 +1,177 @@
+[START TEXT]Many studies have predicted future distributions of Aedes mosquitoes and risks of dengue, including regional- and global-level predictions, based on GCMs of different climate change scenarios. Since different models yield quite different results, it is difficult to assess the uncertainty of the predictions and to validate the modeling results. A study of climate change in the Arctic found that the actual increase in temperature from 1979 to 2021 was 4 times of that predicted by climate model, indicating the uncertainty of GCM predictions and the importance of observational data. To our knowledge, this is the first study to use actual observed climate trends to predict the future distribution of dengue risks worldwide. We found strong trends (measured by linear regression and correlation coefficient) in climate warming across nearly all meteorological observations in China, which makes our climate change predictions reliable if the current trend holds; the fixed annual change rates are similar to the assumptions for the climate models, but our predictions are supported by over 50 years of observations. We found that the temperature increased the most from February to April. We also found strong correlations between the prevalence of Ae. albopictus and observed winter to early spring temperature, the months with the greatest temperature increase, indicating that the warming temperature may have major impact on the northward expansion of the Ae. albopictus distribution. The projected temperatures in 2050 and 2080 in this study were approximately 1–1.5 °C higher than those projected by GCMs. Our model predicted that Ae. albopictus risk will expand to nearly all populated areas in China and the risk season will expand from June–September to April–October by 2050, likely due to the substantial increase in temperature from February to April. We estimated that the current population at risk of Ae. albopictus in China is approximately 960 million, or approximately 68% of the total population, and will reach 1.2 billion or approximately85% of the current population by 2050.
+Dengue outbreaks in China have been reported in Shandong, Henan, and Chongqing provinces, which are not far from the current known northern Ae. albopictus distribution boundary, indicating that the risk of dengue outbreaks can reasonably be predicted by the distribution of the vector mosquito Ae. albopictus. Since Ae. albopictus is nearly the sole vector for recent dengue outbreaks in China, the observed dengue outbreaks in northern China also demonstrate the urgency for updated Ae. albopictus surveillance in northern China, which is currently not available. The increase in temperature in northern China warrants the need to use observed climate changes to examine the impact of these changes on dengue outbreak risks, both in China and worldwide. Given the wide distribution of imported dengue cases all over China, our study is a timely example of such an approach, and our results show the power of using observed meteorological records for predicting future dengue outbreak risks.
+Incidentally, it is interesting to note that Aedes species other than Ae. albopictus have also been observed in China. The known major dengue vector Ae. aegypti has been reported in Yunnan in southwestern China bordering Myanmar, where dengue outbreaks have been reported. Ae. albopictus has also been reported in the same area. Our model predicted very high risk of dengue outbreaks in Yunnan Province nearly year-round in the China-Myanmar border area. Aedes vexans has been reported from Heilongjiang Province, a northeastern province bordering the Democratic People's Republic of Korea, Russia and Mongolia, far north of the current Ae. albopictus northern boundary. In addition, Ae. caspius and Ae. flavidorsalis have been reported in central Qinghai Province, the core area of the Qinghai-Tibet Plateau. Culex and Anopheles mosquitoes have also been reported in these places. The vector status of these Aedes mosquitoes is unknown, as is the impact of climate change on the distribution and vector status of these Aedes mosquitoes. Furthermore, Culex pipiens pipiens, Culex pipiens pallens, Culex pipiens quinquefasciatus and its hybrids have in recent years established populations in Lhasa city, Tibet Autonomous Region, 3700 m above sea level; whether they can transmit diseases is unknown. However, malaria and malaria vectors have been reported in Motuo County, Tibet, indicating the possibility of pathogen transmission at high altitudes, and climate change may enhance or support the transmission of pathogens in the highlands.
+There are several limitations to this study. Although validation analysis showed that our model had high power to predict the observed presence of Ae. albopictus, the suitability model predicted the potential distribution of Ae. albopictus in the Taklamakan Desert area of southwestern Xinjiang in northwestern China, which is likely due to the lack of Ae. albopictus surveillance data and the sparse distribution of meteorological records in the area; the predicted future climate in this area was likely biased by the use of ground observations from other stations. In this context, mosquito surveillance should be enhanced by setting up more monitoring stations in western and northeastern China (see Fig. 1), and better surveillance coverage may improve the power of model predictions and capture the potentially newly invaded areas by Ae. albopictus in China. Some dengue risk models have used human population density as an independent risk predictor, which may reduce the uncertainty of model predictions; since the desert is a no-man’s land, the dengue risk will be zero. In this study, we used only climatic and environmental data; therefore, we only predicted the climate suitability for dengue transmission. On the other hand, the environmental variables already included humid, sub-humid, semiarid, and arid regions as an independent variables, so the predicted suitability in the desert area is likely due to the lack of Ae. albopictus surveillance data from arid areas. In addition, adding the human population as a variable may not have a major impact on the overall results, because population density is high in northeastern China but no Ae. albopictus has been detected in the area, likely due to the low temperature. Since future trends in climate change may not be the same as those in the last 50 years, we cannot necessarily assume a fixed trend, i.e., the prediction of future climate change has uncertainty. However, most if not all climate models use the fixed emission assumption over time, although they allow for different emissions scenarios. Since we used observed climatic data, the projected distribution of Ae. albopictus can be adjusted or the model calibrated when future data are updated; this may be a viable solution to address the uncertainty of future climate change. Finally, in addition to the uncertainty in future global climate change, future population growth in China is also uncertain especially by 2050 and beyond, recent birth/death records show a substantial downward trend in population growth in China. Since it is difficult to predict both the future population trend in China and population movement (thus population distribution), therefore there is an uncertainty for the prediction of future at-risk populations.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study predicts the future distribution of Ae. albopictus mosquitoes and dengue risks in China based on observed climate trends, highlighting the expansion of Ae. albopictus distribution and the increasing risk of dengue outbreaks, particularly in northern regions.\n\nThe authors acknowledge several limitations in their study. Firstly, they mention the potential bias in their model predictions due to the lack of Ae. albopictus surveillance data and sparse distribution of meteorological records in certain areas, such as the Taklamakan Desert region in northwestern China. They suggest that enhancing mosquito surveillance in these areas could improve the accuracy of their predictions. Secondly, they note that their model only considers climatic and environmental data, not human population density, which could reduce the uncertainty of the predictions. However, they argue that the inclusion of population density might not significantly impact the results since Ae. albopictus presence is primarily influenced by temperature rather than human density. Thirdly, they acknowledge the uncertainty in future global climate change trends and the challenge of predicting future population growth and distribution in China, which could affect the accuracy of their projections for at-risk populations. Finally, they highlight the potential for adjusting their model based on updated climatic data in the future to address uncertainties in climate change projections. These limitations underscore the complexities and challenges inherent in modeling dengue risks and mosquito distributions, particularly in the context of uncertain future climate and population trends.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The main findings of the study are accurately and concisely presented in the first sentence. Furthermore, the limitations are explained accurately."
+            ],
+            "Coverage": [
+                1,
+                "No limitations are left out, making this a complete summary in terms of coverage."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "This study predicts a significant northward expansion of the Ae. albopictus mosquito in China due to rising temperatures, potentially leading to a substantial increase in the population at risk of dengue fever.\n\nThe authors explicitly acknowledge several limitations of the study. The model predicted high risk in the Taklamakan Desert due to a lack of surveillance data and sparse weather stations.  Additionally, human population density was not included as a factor, though it may have reduced uncertainty in non-desert areas. The fixed-rate climate change assumption and uncertainty in future population growth were also mentioned as limitations.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations are mentioned in the summary."
+            ],
+            "Coherence": [
+                2,
+                "Although all limitations are mentioned, they are described very briefly compared to other summaries, which is why it is not completely clear why these factors limit the robustness of the study. Overall, the summary is still high quality, but could benefit from a more detailed explanation of the limitations."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the observed climate warming trends across nearly all meteorological observations in China indicate a major impact on the northward expansion of the Ae. albopictus distribution, potentially increasing the risk of dengue outbreaks.\n\nThe authors explicitly acknowledge several limitations in their study:\n\nThe suitability model predicted the potential distribution of Ae. albopictus in the Taklamakan Desert area of southwestern Xinjiang in northwestern China, which is likely due to the lack of Ae. albopictus surveillance data and the sparse distribution of meteorological records in the area.\nThe projected future climate change has uncertainty as future trends in climate change may not be the same as those in the last 50 years. However, the authors suggest that the projected distribution of Ae. albopictus can be adjusted or the model calibrated when future data are updated.\nIn addition to the uncertainty in future global climate change, future population growth in China is also uncertain especially by 2050 and beyond. Recent birth/death records show a substantial downward trend in population growth in China. Since it is difficult to predict both the future population trend in China and population movement, there is an uncertainty for the prediction of future at-risk populations.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The first sentence explains the main findings of the study accurately and concisely. All limitations are described briefly, while not leaving out details."
+            ],
+            "Coverage": [
+                1,
+                "All limitaions are covered."
+            ],
+            "Coherence": [
+                2,
+                "Bullet points are used despite the instruction in the prompt to not include them, which is why it loses a point on coherence. Overall this does not make the summary worse or less readable, which is why it is still ranked second place overall."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The study predicts an expansion of Ae. albopictus distribution and dengue risk season in China based on observed climate warming trends, with potential risks in previously unaffected northern areas and in border regions with other countries, despite some limitations, such as the lack of surveillance data and the uncertainty of future climate change and population trends.\n\nThe authors acknowledge several limitations in their study. One limitation is the lack of sufficient surveillance data and sparse meteorological records, particularly in western and northeastern China, leading to potential biases in the climate suitability predictions for Ae. albopictus in those areas. Another limitation is the absence of information on the vector status and impact of climate change on the distribution and activity of other Aedes mosquito species and non-Aedes vectors in China. Another limitation is the uncertainty of future global climate change, which may affect the accuracy of the projected Ae. albopictus distribution and risk estimates. Additionally, since future population growth in China is uncertain, there is uncertainty regarding future at-risk populations. The authors suggest updating the model with future data and adjusting the projections accordingly to address some of these uncertainties. Overall, the authors note that their study provides a foundation for monitoring and mitigating the potential risks of dengue transmission as climate warming continues.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The study found that the temperature increase in China from February to April and the correlation between temperature increase and the prevalence of Ae. albopictus indicate that warming temperatures may significantly impact the distribution and risk of the mosquito, which is the sole vector for dengue outbreaks in China. The authors acknowledge several limitations, including the possible bias in predicted climate data due to the lack of meteorological records and mosquito surveillance data in some areas, the uncertainty of future climate trends and population growth in China, and the unknown vector status and impact of climate change on other Aedes and non-Aedes mosquito species.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this study is that using observed climate trends to predict future dengue risks worldwide, particularly in China, indicates the significant impact of warming temperatures on the northward expansion of Ae. albopictus distribution and the potential increase in the number of people at risk. The authors acknowledge several limitations, including the lack of Ae. albopictus surveillance data and sparse meteorological records in certain areas, the need for enhanced mosquito surveillance, the potential bias in predicted climate data due to the sparse observations, and the uncertainty in future climate change and population growth trends.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that observed climate trends in China can be used to predict the future distribution of dengue risks, revealing a substantial increase in Ae. albopictus risk and expansion of the risk season by 2050. The authors acknowledge several limitations, including the lack of Ae. albopictus surveillance data in certain areas, the potential bias from using ground observations from other stations, and the uncertainty in future population trends and climate change. They suggest enhancing mosquito surveillance, calibrating the model based on future data, and addressing the uncertainty by adjusting the projected distribution of Ae. albopictus. No other limitations were explicitly mentioned in the text.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this study is that observed climate trends can be used to predict future distributions of Ae. albopictus and associated dengue risks in China, which may expand to nearly all populated areas and extend the risk season from June-September to April-October by 2050. However, the authors acknowledge several limitations, including the lack of surveillance data in certain areas, the potential bias of climate predictions in sparsely monitored regions, the uncertainty of future climate change trends, and the unknown distribution and impact of other mosquito species, particularly those that could transmit diseases at high altitudes.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

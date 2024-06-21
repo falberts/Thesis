@@ -1,0 +1,87 @@
+{
+    "zeroshot_original": {
+        "summ": "The document describes the first reported case of a pediatric patient with a large schwannoma (greater than 5 cm) arising from the lateral wall of the nasopharynx, emphasizing the importance of early diagnosis and referral to otolaryngology specialists for head and neck masses.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary accurately reflects the main finding of the original text."
+            ],
+            "coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The authors report the first published case of a pediatric patient with a schwannoma arising from the lateral wall of the nasopharynx, which is larger than 5 cm in maximum dimension. No limitations are provided by the authors.",
+        "quality": {
+            "factual consistency": [
+                2,
+                "The information about the study is correct in regards to the original paper. However, the main finding should include information on the diagnosis and treatment of schwannomas."
+            ],
+            "coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this document is the presentation of a rare case of a pediatric patient with a schwannoma in the lateral wall of the nasopharynx. The document also discusses the challenges in diagnosing schwannomas due to their nonspecific symptoms and the importance of early recognition and referral to an otolaryngologist. No limitations were explicitly mentioned by the authors.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary accurately reflects the main finding of the original text."
+            ],
+            "coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding of this case report is the presentation of a pediatric schwannoma arising from the lateral wall of the nasopharynx, which is the first such reported case. No limitations were explicitly mentioned by the authors.",
+        "quality": {
+            "factual consistency": [
+                2,
+                "The summary accurately reflects the main finding of the original text but lacks details about the diagnosis and treatment of schwannomas."
+            ],
+            "coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this case report is the presentation of a pediatric schwannoma arising from the lateral wall of the nasopharynx and exceeding 5 cm in maximum dimension, which is a rare occurrence.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "factual consistency": [
+                2,
+                "The summary accurately reflects the main finding of the original text but does not provide details about the diagnosis and treatment of schwannomas."
+            ],
+            "coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    }
+}

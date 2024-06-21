@@ -1,0 +1,181 @@
+[START TEXT]Previous studies have suggested that VLPs can act as strong immunogens and can even can be exploited as carriers for target epitopes. VLPs mimic the actual size and shape of native viruses and can mediate both humoral and cell-mediated immunity. Because of their similarity to native viruses, VLPs are efficiently recognised by professional antigen presenting cells (APCs). The exposure of target antigens on the VLP surface allows antigen delivery and presentation to T and B cells, since the VLPs act as a delivery platform and an adjuvant at the same time. After the uptake of VLPs by APCs, they present the target antigens to naive T cells and initiate target-specific immune responses. However, it is important to select the appropriate conditions for a regular VLP assembly in order to get native-like particles, as their structural characteristics may impact their antigenic properties.
+We demonstrated the high immunogenicity of different recombinant VLPs derived from the major capsid protein VP1 of nine HPyVs. Our data links with previous immunogenicity studies in humans or animals either naturally infected with PyVs or immunised with VLPs. The seroprevalence study of 14 HPyVs showed that antibodies against these viruses are detected in the human population, demonstrating that all these viruses are recognised by the human immune system. Other studies demonstrated that BKPyV is able to induce IgG responses in infected individuals, and some other HPyVs are recognised by the immune system and induce humoral and cellular immune responses in humans. On the other hand, some PyVs, such as SV40, can evade the immune system of the host. The study on the immunogenicity of MuPyV VP1 VLPs in mouse models also demonstrated that these VLPs induced strong humoral and cellular immune responses. In addition, our results show the impact of VLP size on humoral immune response, as larger VLPs induced a higher response. The differences in the humoral immune response could also be related to different amino acid sequences on the surface of VLPs that determine the exposure of different VLP epitopes to B lymphocytes.
+Until now, only one or a few VP1 VLPs derived from different HPyVs were investigated within the same experimental setting. The uptake of PyV VP1-derived VLPs by the cells was also shown. In contrast to previous studies, we demonstrated the uptake of VP1 VLPs derived from nine HPyVs by primary mouse macrophages. Previous studies suggest that PyVs enter the cells via endocytosis after VP1 protein binding to sialic acid-containing cellular receptors. It was also demonstrated that PyV-derived recombinant VLPs are taken up by the cells in a comparable way as native viruses. For instance, VP1 VLPs of HaPyV were taken up by the dendritic cells and induced their activation. Another example shows that VP1 VLPs of BK and JC PyVs were taken up by non-professional phagocytes—liver sinusoidal endothelial cells. The uptake of VLPs by the cells is a fast process. For example, VP1 VLPs of the murine pneumotropic virus were significantly internalised within 10 min, and in 40 min a 50% uptake of these VLPs were detected in a murine endothelial cell line. After endocytosis, VLPs were transferred to the cell nucleus by their nuclear localisation signal allocated in the N-terminal region of VP1 protein, as was demonstrated with VLPs of JCPyV using HeLa and SVG human cell lines. We showed that HPyVs VLPs are recognised by both humoral and innate immune systems, suggesting that HPyVs itself might be immunogenic.
+Certain PyVs are declared to be zoonotic, thus, we made a cross-reactivity analysis of different human, mammalian and avian PyV VP1 VLPs to identify possible antigenic differences between investigated PyVs. First, we made the phylogenetic tree of VP1 amino acid sequences of all VP1 VLPs used in this study. We set five distinct groups combining human, mammalian and avian PyVs VP1. Our cross-reactivity analysis of VP1 VLP-specific antisera was in agreement with the VP1 based PyV phylogenetic tree; however, a high intergroup cross-reactivity was also observed. It was previously shown that mouse polyclonal antibodies raised using HPyV VP1 VLPs are able to recognize other HPyVs VP1 proteins in western blot analysis, but it was a bit different from our data. It should be noted that, in this study, the antibodies were raised against the surface-exposed parts of VLPs, while the phylogenetic analysis is based on the comparison of the primary structure of VP1 proteins, which might cause some of the differences between phylogenetic and experimental data of antiserum cross-reactivity. We also found differences between other studies investigating VP1 amino acid sequences. For example, SaraPyV was shown to be similar to MCPyV, TSPyV, and HPyV9, while our cross-reactivity data evince SaraPyV’s similarity to MCPyV, HPyV6, and STLPyV. These discrepancies could be due to different analysis methods, as we assess epitopes in the spatial structure of VP1, not just the amino acid sequence. It is likely that the structural antigenic comparison represents biological evidence of PyVs properties, especially when VLPs structures seem to be comparable to native viruses.
+Recombinant VP1 VLPs of PyVs are extensively exploited as a promising tool for various biomedical applications. They are used for the investigation of PyV seroepidemiology, as they are excellent antigens in ELISA platforms to determine PyV-specific antibodies. Due to their repetitive structure and large size, VP1 VLPs of PyVs are highly immunogenic and can be used as carriers or as a delivery platform for the presentation of heterologous antigens in vaccine development. These VLPs might be used to develop vaccines without additional adjuvants because PyV-derived VLPs are able to activate pattern-recognition receptors, thereby enhancing the immune response. Technologies for constructing chimeric and pseudotype PyV-derived VLPs allow for the insertion of antigens of different sizes and origins into VLPs, which is a valuable approach for studies of non-immunogenic or difficult-to-express proteins. On the other hand, PyV-derived chimeric VLPs harbouring other viral antigens as targets can be used to investigate the interaction at the cellular level between the target antigens and the host, for example, their binding with cell receptors and the mechanisms of virus uptake by the cells. Our study provides additional information about the immonogenicity of HPyVs VP1-derived VLPs, demonstrating their ability to induce immune response depending on their size, amino acid sequences, and other structural features.
+Despite the many studies on PyV epidemiology and data about their presence in patients with certain diseases, there are insufficient data on the biology of these viruses and how the immune system combats them. Some HPyVs are dangerous; their activity might be disastrous to immunocompromised patients. For example, JCPyV and BKPyV cause renal allograft failure after renal transplantation, and there is no effective treatment for this life-threatening condition. Another example is skin diseases induced by HPyVs—MCPyV, TSPyV, HPyV7 and HPyV6. MCPyV stands out as an aggressive cancer-causing virus. HPyV6 and HPyV7 are primarily associated with inflammatory skin diseases such as psoriasis. Though some previous studies suggest that PyVs induce strong immune responses both at humoral and cellular levels, more investigations are needed on the interaction of PyVs with the host immune system and on PyV-driven molecular mechanisms to evade the immune responses, especially due to the fact that most individuals are infected with PyVs in their childhood, as highlighted by the recent study in Greece. Understanding the risk factors for developing a severe PyV-caused disease is of high importance, as there is no specific treatment for PyV infection. The current treatments based on using neutralising antibodies or immunotherapy are not efficient sufficient and have side effects, highlighting the need for more studies in this field.
+In this study we also generated a collection of MAbs of various specificities to HPyVs. This tool can be used for PyVs detection and characterisation. Generated VP1 specific MAbs could be applied for assays to detect the native viruses in cell cultures or tissues. MAbs’ specificity to a certain epitope may also be used to investigate the structure of viral particles and interactions between those particles and host cell receptors.
+In sum, in this study we compared a number of VLPs composed of recombinant VP1 proteins of different human, mammalian and avian PyVs in regard to their immunogenicity, antigenic similarity, and their uptake by professional APCs. We demonstrated that despite the different size and some distinctions of immunogenicity levels, all nine studied HPyV derived VP1 VLPs were immunogenic in a mouse model and induced IgG formation. They were also taken up by mouse macrophages, suggesting the subsequent presentation of VLP-derived antigens for inducing a cell-mediated response. Antibodies raised against certain VP1 VLPs of HPyVs cross-reacted with VLPs of other human and animal PyVs. The pattern of cross-reactivity indicates the high antigenic similarity of PyV VP1 proteins, and is in agreement with their phylogenetic analysis based on the sequence of VP1 proteins. Furthermore, as the humoral immune response to PyVs is mainly related to VP1, the cross-reactivity levels between VP1 proteins may suggest possible cross-immunity to several PyVs after encountering one of them. More investigations are needed on the role and mechanisms of immune protection against severe diseases caused by different PyVs. In conclusion, our study and the developed molecular tools reveal the antigenic features of PyVs and provide the means for further studies of PyV biology.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study demonstrates the immunogenicity and antigenic similarity of VP1-derived virus-like particles (VLPs) from different human, mammalian, and avian polyomaviruses (PyVs), suggesting potential cross-immunity and providing molecular tools for further investigation of PyV biology.\n\nThe authors acknowledge limitations in their study. Firstly, they mention the need for more investigations on the role and mechanisms of immune protection against severe diseases caused by different PyVs, indicating a gap in understanding the immune response to PyVs. Secondly, they highlight the insufficiency of data on PyV biology and how the immune system combats them, particularly concerning dangerous PyVs like JCPyV and BKPyV, which can cause renal allograft failure with no effective treatment currently available. This limitation emphasizes the urgency for more research in this field to develop effective treatments. Finally, they note the limitations in current treatments, such as neutralizing antibodies or immunotherapy, which are not efficient enough and have side effects, underscoring the necessity for further studies to improve treatment options.",
+        "quality": {
+            "Factual consistency": [
+                3,
+                "The main fingings are presented accurately. However, it says that the authors acknowledge limitations in their study, which is untrue."
+            ],
+            "Coverage": [
+                3,
+                "The limitations that are listed are not limitations of the study itself. Gaps in research on the subject of PyVs are presented as a limitation of the study in this summary, when they should only reflect the need for future studies on this subject."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "This study investigated the immunogenicity and antigenic similarity of different human, mammalian and avian PyVs VP1 VLPs, and found that all nine studied HPyV derived VP1 VLPs were immunogenic in a mouse model and induced IgG formation.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "This summary is factually correct. It accurately states that no limitations are provided by the authors, and it presents only the main findings of the study accurately."
+            ],
+            "Coverage": [
+                1,
+                "As no limitations are explicitly mentioned, this summary is complete in terms of coverage"
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that all nine studied HPyV derived VP1 Virus-Like Particles (VLPs) were immunogenic in a mouse model, induced IgG formation, and were taken up by mouse macrophages, suggesting the subsequent presentation of VLP-derived antigens for inducing a cell-mediated response, and the cross-reactivity levels between VP1 proteins may suggest possible cross-immunity to several Polyomaviruses (PyVs) after encountering one of them.\n\nRegarding the limitations, no limitations are provided by the authors. They did not explicitly acknowledge any limitations in their study. However, they did mention that more investigations are needed on the role and mechanisms of immune protection against severe diseases caused by different PyVs. This suggests that while their findings are significant, there is still much to learn about the complex interactions between PyVs and the immune system.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "This summary provides a factually consistent overview of the results of the study. All information is presented accurately, albeit too much information in terms of the main findings of the study."
+            ],
+            "Coverage": [
+                2,
+                "The summary states how more research is needed to understand the complex interactions between PyVs and the immune system. While this is not a specific limitation of the study, it does reflect how the authors interpret the results of their study. This is a nice inclusion, provided the summary explains that the authors did not state it as a limitation explicitly."
+            ],
+            "Coherence": [
+                2,
+                "Too much information is presented in the overview of the results. Only the main findings should be mentioned in a very brief manner. For example, 'this study investigated the immunogenicity and antigenic similarity of different human, mammalian and avian PyVs VP1 VLPs, and found that all nine studied HPyV derived VP1 VLPs were immunogenic in a mouse model and induced IgG formation.'"
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The study demonstrates that nine different human, mammalian, and avian Polyomavirus (PyV) VLPs derived from their major capsid protein VP1 are immunogenic, inducing humoral and cellular immune responses in mice, and shows significant antigenic similarity, as evidenced by cross-reactivity between the VP1 specific antibodies. The authors suggest that more investigations are needed to understand the role and mechanisms of immune protection against severe diseases caused by different PyVs.\n\nThe authors acknowledge several limitations of their study. Firstly, they note that they only demonstrated the immunogenicity of nine out of the ten known HPyVs, and the immunogenicity of HPyV10 was not investigated. Additionally, they acknowledge that the uptake and presentation of VLPs by APCs and the subsequent immune response may vary depending on the route of administration, the dose, and the animal species. Furthermore, they mention that their antigenic comparison was based on the primary structure of VP1 proteins, but future studies are needed to assess the structural and functional aspects of antigenic similarity. Lastly, the authors suggest that further investigations are necessary to understand the mechanisms of immune protection against severe diseases caused by different PyVs.\n\nOverall, the authors provide an awareness of the limitations of their study, acknowledging the need for further research to deepen the understanding of PyV biology and the immune responses to these viruses.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The most important finding of this study is that recombinant VLPs derived from the major capsid protein VP1 of nine different Human Polyomaviruses (HPyVs) were shown to be immunogenic and able to induce both humoral and cellular immune responses in a mouse model. Additionally, uptake of these VLPs by primary mouse macrophages was demonstrated, suggesting their subsequent presentation for inducing a cell-mediated response. Cross-reactivity was observed between antibodies generated against different HPyV VP1 VLPs, indicating high antigenic similarity among PyV VP1 proteins and potential for cross-immunity to multiple PyVs.\n\nThe authors acknowledged several limitations of their study: although they demonstrated the uptake of HPyV VP1 VLPs by primary mouse macrophages, the impact of these particles on the downstream immune response and the activation of professional antigen-presenting cells was not specifically investigated; the specific antibody response to the heterologous PyV VP1 VLPs was not measured in detail and only IgG formation was assessed; and, the results obtained from their mouse model may not be directly applicable to humans due to species differences in immune responses. Additionally, the study did not assess the interference of pre-existing immunity with the immune response to the VLPs, which may impact their potential use in vaccine development.\n\nExplicitly mentioned limitations:\n- Impact of HPyV VP1 VLPs on downstream immune response and activation of professional antigen-presenting cells not specifically investigated\n- Detailed investigation of specific antibody response to heterologous PyV VP1 VLPs not performed, only IgG formation assessed\n- Results obtained in mouse model may not be directly applicable to humans due to species differences\n- Interference of pre-existing immunity with immune response to VLPs not assessed.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this study is that VLPs derived from the major capsid protein VP1 of nine HPyVs are immunogenic and can induce strong humoral and cellular immune responses. The authors demonstrate the uptake of these VLPs by primary mouse macrophages and show that they act as a delivery platform and an adjuvant at the same time. However, they emphasize the importance of regular VLP assembly to ensure native-like particles with optimal antigenic properties.\n\nThe authors do not explicitly mention any limitations in the given text. However, there are a few potential areas that could be considered for future research. For example, the study focuses primarily on mouse models for investigating the uptake and immune response to HPyV VLPs. Further studies using human cell lines or primary human immune cells would provide a more accurate representation of the human immune response to these VLPs. Additionally, the study focuses on the immunogenicity of VP1 VLPs and does not explore the potential impact of other viral proteins or the genetic diversity of HPyVs on immune response or disease outcomes. Further investigation in this area could shed light on potential new targets for vaccine development or therapies for PyV-associated diseases.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that various recombinant VLPs derived from the major capsid protein VP1 of nine Human Polyomaviruses (HPyVs) showed high immunogenicity, and these VLPs induced both humoral and cellular immune responses.\n\nRegarding the limitations, the authors acknowledge that only one or a few VLPs derived from different HPyVs have been investigated within the same experimental setting in previous studies. They did not explicitly discuss other potential limitations. However, it can be inferred from the text that the complexity of the chemical composition of essential oils, the impact of VLP size on humoral immune response, and the structural antigenic comparison of VLPs are factors that may have limitations in the generalizability of the findings.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding of the study is that recombinant VLPs derived from the major capsid protein VP1 of nine Human Papatopic Viruses (HPyVs) have high immunogenicity and can induce strong humoral and cellular immune responses, with larger VLPs inducing a higher response due to the exposure of different VLP epitopes. The authors did not explicitly acknowledge any limitations in the text. However, they mentioned that previous studies have investigated only one or a few VP1 VLPs derived from different HPyVs, and that the differences in the humoral immune response could be related to different amino acid sequences on the surface of VLPs. They also suggested that more investigations are needed on the interaction of PyVs with the host immune system and on PyV-driven molecular mechanisms to evade the immune responses.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

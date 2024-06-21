@@ -1,0 +1,87 @@
+{
+    "zeroshot_original": {
+        "summ": "The study found that children with asthmatic bronchitis and asthma exhibit distinct immune dysregulation patterns, with higher levels of B cells and CD4/CD8 in asthmatic bronchitis and lower levels of CD8+ T cells and NK cells, as well as lower levels of immunoglobulins and complement components. The authors used machine learning models to distinguish between the two conditions, with RF performing better than ET in terms of accuracy.\n\nThe authors acknowledge some limitations of their study. They mention that their dataset was relatively small and lacked additional data, such as radiological images, which could potentially introduce bias into the results. They plan to overcome this limitation by augmenting their dataset with a larger patient pool and incorporating multi-center studies in the future to enhance the model's accuracy. Additionally, they note that there was less research on CD8+ T cells in children with asthma compared to CD4+ T cells and that both CD4+ and CD8+ T cells have distinct roles in recognizing antigens presented by different MHC molecules. However, they suggest that CD8+ T cells, particularly those producing high levels of IFN-gamma, could be involved in attenuating pulmonary allergic inflammation. Overall, the authors recognize the importance of expanding the dataset and integrating multiple diagnostic tools to gain a more comprehensive understanding of the complex immunological patterns associated with asthmatic bronchitis and asthma.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary accurately reflects the main findings and results of the original document."
+            ],
+            "coverage": [
+                1,
+                "The summary coversall limitations."
+            ],
+            "coherence": [
+                1,
+                "The summary is well-organized and coherent, with no hallucinations."
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The most important finding of this study is that children with asthmatic bronchitis and asthma exhibit distinct immune dysregulation patterns, with higher B cells and CD4/CD8 in the asthmatic bronchitis group and lower CD8+ T cells and NK cells, along with lower levels of IgG, IgA, tIgE, and C3 in serum. CD8+ T cells and B cells were identified as having high rankings in the assessment of immunological biomarks.\n\nRegarding the limitations mentioned in the text, the authors describe that they used a relatively small dataset and lacked supplementary data such as radiological images, which might introduce bias into the results. They plan to augment the dataset with a larger patient pool and incorporate multi-center studies to enhance the model's accuracy in the future. Overall, this research has several limitations, including a small sample size, lack of supplementary data, and potential bias from the limited patient population. The authors acknowledge that expanding the dataset and incorporating multi-center studies will address some of these limitations and improve the model's diagnostic capabilities.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary is factually consistent with the original text, accurately reflecting the key points and findings."
+            ],
+            "coverage": [
+                1,
+                "The summary mentions all limitations."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations, presenting information in a logical sequence."
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding of the study is that children with asthmatic bronchitis and asthma exhibit distinct immune dysregulation, with higher levels of B cells and CD4/CD8 cells in asthmatic bronchitis and lower levels of CD8+ T cells and NK cells in both diseases. The study also found lower levels of IgG, IgA, tIgE, and C3 in serum. Two machine learning models, RF and ET, were established to distinguish between the two types of diseases, with RF performing better. The research has limitations, including the relatively small dataset and lack of supplementary data. The authors plan to expand the dataset and incorporate multi-center studies in future research to enhance the model's accuracy. No other limitations were explicitly mentioned in the text.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary accurately captures the findings and results of the study without any factual errors."
+            ],
+            "coverage": [
+                1,
+                "The summary covers all limitation."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and logically structured without any hallucinations."
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that children with asthmatic bronchitis and asthma exhibit distinct immune dysregulation, characterized by divergent patterns of humoral and cellular immune responses, with CD8+ T cells and B cells being particularly important in disease development. The authors also developed machine learning (ML) models using selected immunological biomarkers to distinguish between the two diseases and selected the RF model as the preferred choice due to its higher accuracy and predictive ability.\n\nRegarding the limitations, the authors acknowledge several limitations of their study. First, their ML dataset was relatively small and lacked supplementary data such as radiological images, which might introduce bias into the results. They plan to augment their dataset with a larger patient pool and incorporate multi-center studies to enhance the model's accuracy in the future. Second, the specificity and generalizability of their findings are not yet fully evaluated due to the limited scope of their study. Lastly, they mention that their research only provides information on the immunological mechanisms of the diseases and that further studies are needed to explore the underlying genetic, environmental, and other factors contributing to the development of asthmatic bronchitis and asthma.\n\nOverall, the authors acknowledge and plan to address several limitations of their study, and their findings contribute to the understanding of the immunological mechanisms underlying asthmatic bronchitis and asthma, ultimately assisting in the development of more accurate diagnostic tools and potential therapeutic approaches.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary is factually accurate and includes the main findings and limitations as mentioned in the original text."
+            ],
+            "coverage": [
+                1,
+                "The summary adequately covers all limitations mentioned in the original text and includes future plans to address them."
+            ],
+            "coherence": [
+                1,
+                "The summary is well-organized and coherent, presenting the information in a logical order."
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this study is that children with asthmatic bronchitis and asthma exhibit distinct immune dysregulation, as indicated by divergent patterns of humoral and cellular immune responses, specifically with higher levels of B cells, CD4/CD8, and lower levels of CD8+ T cells and NK cells, as well as lower levels of IgG, IgA, tIgE, and C3 in serum. CD8+ T cells and B cells were identified as having high importance in the assessment of immunological biomarkers and were shown to play important roles in the development and progression of both asthmatic bronchitis and asthma. The study also used machine learning (ML) models with selected immunological biomarkers to distinguish between the two types of diseases, with RF and ET models performing better than others.\n\nSome limitations of the study are that it relied on a relatively small dataset and lacked supplementary data such as radiological images, which could potentially introduce bias in the results. The authors plan to address these limitations by augmenting their dataset with a larger patient pool and incorporating multi-center studies in the future.\n\nNo explicit limitations were mentioned in the text aside from those mentioned above.\n[RANK: 1]\n[EXPLANATION: \n\nFactual Consistency: 1 (The summary accurately reflects the main findings and results of the original document.)\n\nCoverage: 1 (The summary adequately covers all limitations included in the original document.)\n\nCoherence: 1 (The summary is well-organized and presents information in a logical sequence.)\n\nExplanation: The most important finding in the given document is that children with asthmatic bronchitis and asthma exhibit distinct immune dysregulation. The study found that children with asthmatic bronchitis had higher levels of B cells, CD4+/CD8+ T cells, and lower levels of CD8+ T cells and NK cells compared to those with asthma. Additionally, serum levels of IgG, IgA, tIgE, and C3 were lower in the asthmatic bronchitis group. CD8+ T cells and B cells were identified as having high importance in the assessment of immunological biomarkers",
+        "quality": {
+            "factual consistency": [
+                3,
+                "The summary inaccurately includes a ranking statement not present in the original text, which affects factual consistency."
+            ],
+            "coverage": [
+                1,
+                "The summary thoroughly covers all limitations mentioned in the original text, including future plans to address them."
+            ],
+            "coherence": [
+                3,
+                "The inclusion of an incorrect ranking statement disrupts coherence, making the summary less reliable."
+            ]
+        }
+    }
+}

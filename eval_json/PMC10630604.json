@@ -1,0 +1,87 @@
+{
+    "zeroshot_original": {
+        "summ": "The study found that 68% of participants performed better in a Working Memory task with white noise (WN) compared to no noise, while 24% showed no difference, and 8% performed worst with noise. The authors suggest that Stochastic Resonance (SR) may explain this phenomenon by reducing neural activity and freeing up cognitive resources for higher WM task performance. However, the effects of WN on WM remain unclear, and more studies are needed to understand the constructive role of noise. The study also revealed a high prevalence of mild cognitive impairment and low WM capacity, as well as anxiety and depression symptoms in chronic tinnitus patients. However, the small sample size and lack of a control group limit the generalizability of the findings. Additionally, the relationship between higher tinnitus handicap scores and worse WM performance was not statistically significant, and more research is needed to understand the effect of WN on high WM tests among participants with chronic tinnitus and normal hearing.\n\nNo explicit limitations are provided by the authors. However, possible limitations could be the small sample size and the lack of a control group that could have helped better understand the influence of white noise and avoid any bias. Additionally, the influence of personal motivation during test performance was not taken into account. Further research is needed to support the findings, especially in the areas of WM and Stochastic Resonance.",
+        "quality": {
+            "factual consistency": [
+                3,
+                "The summary contains inaccuracies, such as stating that there were no explicit limitations provided by the authors, which is incorrect as the authors explicitly mentioned limitations."
+            ],
+            "coverage": [
+                3,
+                "Not all limitations mentioned in the original text are covered in the summary. For example, the summary fails to mention the impact of personal motivation on test performance."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent."
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The most important finding of this study is that 68% of the seventeen participants showed better performance in the WN condition for working memory tests, while 24% showed the same performance, and 8% performed worse. The authors suggest that Stochastic Resonance (SR) may explain this phenomenon, but they also acknowledge that this hypothesis may be insufficient from an acoustical point of view. They further suggest that SR may regulate neural activity by reducing neural activity and suppressing tinnitus awareness, freeing up cognitive resources for high working memory task performance.\n\nThe authors explicitly acknowledge some limitations of their study. They mention the limited consensus in the literature on the effects of white noise on working memory and suggest that the variety of approaches used for these measurements may contribute to the lack of consensus. They also acknowledge the need for more research to fully understand the effects of white noise on working memory and to determine the optimal S/N ratio for maximizing these benefits. Another limitation they mention is the impact of individual differences, such as age, cognition, and years of education, on the results of the study. They suggest that future studies should control for these factors to minimize potential sources of confounding. They also note that the sample size in their study may have been too small to reach statistically significant conclusions, and that larger studies may be necessary to confirm their findings. Lastly, they mention the lack of a control group in their study, which may have limited their ability to definitively attribute the observed effects to the presence of white noise, as other factors may have influenced the results.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary is factually consistent with the original text."
+            ],
+            "coverage": [
+                1,
+                "The summary covers all limitations mentioned in the original text."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not contain hallucinations."
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this study is that white noise (WN) improved working memory (WM) performance in some participants with tinnitus, possibly through the Stochastic Resonance (SR) phenomenon or by reducing neural activity and suppressing tinnitus awareness. However, the effects of WN on WM are not yet fully understood, and there is no consensus in the literature about the role of noise in WM tasks. The sample in this study had great variability in age, cognition, and education levels, and the study could have benefited from a control group for a better comparison. The authors also acknowledged the potential influence of personal motivation on test performance. (limitations: sample variability, small sample size, lack of control group, absence of assessment of personal motivation)",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary is factually consistent with the original text."
+            ],
+            "coverage": [
+                1,
+                "The summary covers all limitations mentioned in the original text."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not contain hallucinations."
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that seventeen out of seventeen participants showed improved performance in a working memory task with added white noise, possibly due to stochastic resonance or the suppression of tinnitus awareness, although the mechanisms remain unclear. The authors acknowledge limitations such as the lack of a control group, the variability in sample characteristics, and the small sample size, but no other limitations were explicitly stated.",
+        "quality": {
+            "factual consistency": [
+                2,
+                "The summary is factually consistent with the original text but lacks detail."
+            ],
+            "coverage": [
+                2,
+                "The summary covers all limitations mentioned in the original text but does not elaborate on them."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not contain hallucinations."
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this study is that seventeen out of seventeen participants showed improved working memory performance with white noise (WN), while there was no statistical difference between the WN and no white noise conditions on the signal-to-noise ratio (CI). The authors suggest that this phenomenon might be explained by Stochastic Resonance (SR), but concede that more research is needed to fully understand the role of WN in working memory enhancement. The authors mention several limitations, including the lack of a control group, potential bias due to personal motivation, and the need for further research to understand the underpinnings of the SR effect on working memory.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary is factually consistent with the original text."
+            ],
+            "coverage": [
+                1,
+                "The summary covers all limitations mentioned in the original text."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not contain hallucinations."
+            ]
+        }
+    }
+}

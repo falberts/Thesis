@@ -1,0 +1,174 @@
+[START TEXT]Given the prevalence of HFDs and the increasing incidence of obesity among women of reproductive age, it is crucial to understand the effects of HFDs on the development and progression of PCOS. This review highlights the need to unravel the complex mechanisms of PCOS pathology and the interactions among the related contributing factors in order to recognize the deleterious impact of HFDs on PCOS. Furthermore, it demonstrates how HFDs can exacerbate all metabolic and reproductive outcomes of PCOS patients. HFDs can cause insulin resistance and compensatory hyperinsulinemia, leading to increased fat synthesis and decreased fat breakdown. Additionally, HFDs increase the production of inflammatory lipid factors, further exacerbating fat synthesis. According to the aforementioned, there is a potential correlation between HFDs and PCOS; however, the exact mechanisms and impacts require further investigation. In the future, it is imperative to continue in-depth explorations of the association between HFDs and PCOS, and incorporate these into a comprehensive management approach for PCOS, encompassing multidisciplinary interventions such as dietary interventions, physical exercise, weight loss, and medication therapy, to achieve optimal clinical outcomes. Additionally, enhancing public health awareness and promoting healthy dietary habits can aid in the prevention of PCOS occurrence and progression. Future research should also focus on the effects of different types and proportions of fats on PCOS to develop evidence-based and practical dietary intervention strategies for more effective prevention and management of PCOS. In conclusion, further rigorous research and application of the relationship between HFDs and PCOS in clinical practice are warranted to facilitate the health management and prevention of PCOS among affected individuals.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study highlights the significant impact of High-Fat Diets (HFDs) on the development and exacerbation of Polycystic Ovary Syndrome (PCOS) by elucidating the complex mechanisms linking HFDs to metabolic and reproductive outcomes in PCOS patients. \n\nThe authors do not explicitly acknowledge limitations of the paper.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in this summary is consistent with the source text."
+            ],
+            "Coverage": [
+                2,
+                "The summary correctly states that no limitations are provided by the authors. However, it is not discussed how the paper is a literature review and therefore would not include limitations. Also, the need for additional research is not mentioned in the summary."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "The study did not perform any original research but reviewed existing literature and found a potential correlation between high-fat diets (HFDs) and Polycystic Ovary Syndrome (PCOS), although the exact mechanisms and impacts require further investigation.\n\nNo limitations are provided by the authors. The authors acknowledge the need for further research but do not mention any limitations of the current review itself.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in this summary is consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary correctly states that no limitations are provided by the authors. Additionally, the summary explains how this is not an experimental study but a literature review. Furthermore, it is explained that the exact mechanisms linking high-fat diets and Polycystic Ovary Sundrome require further investigation"
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that high-fat diets (HFDs) can exacerbate all metabolic and reproductive outcomes of Polycystic Ovary Syndrome (PCOS) patients, potentially correlating HFDs with PCOS, but the exact mechanisms and impacts require further investigation.\n\nRegarding the limitations, no limitations are provided by the authors in this document.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in this summary is consistent with the source text."
+            ],
+            "Coverage": [
+                2,
+                "The summary correctly states that no limitations are provided by the authors. Furthermore, it addresses the need for further research. However, the summary would be more complete if it is explained that the study is a literature review and therefore would not include limitations."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The review highlights the potential correlation between high fat diets (HFDs) and polycystic ovary syndrome (PCOS), and the need for further research to understand the mechanisms and impacts on metabolic and reproductive outcomes of PCOS patients. The authors suggest a comprehensive management approach that includes dietary interventions, physical exercise, weight loss, and medication therapy.\n\nThe authors do acknowledge some limitations in their review. They mention that the literature on the relationship between HFDs and PCOS is still evolving, and that the underlying mechanisms and impacts require more investigation. They also note that there is a lack of consensus on the types and proportions of fats that have the most deleterious effects on PCOS, and call for more research in this area to develop evidence-based and practical dietary intervention strategies. Additionally, the review primarily focuses on the metabolic and reproductive outcomes of PCOS, and the authors suggest that further research is needed to understand the effects of HFDs on other aspects of PCOS, such as psychosocial and mental health issues.\n\nOverall, the authors acknowledge that there are still many unanswered questions about the relationship between HFDs and PCOS, and that more research is needed to fully understand the mechanisms and impacts on PCOS patients. They call for a comprehensive management approach that includes multidisciplinary interventions, and suggest that enhancing public health awareness and promoting healthy dietary habits are essential for the prevention and management of PCOS.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The review highlights the potential correlation between high fat diets (HFDs) and Polycystic Ovary Syndrome (PCOS), emphasizing the need for further investigation into the mechanisms and impacts on metabolic and reproductive outcomes for PCOS patients.\n\nNo limitations are provided by the authors.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this study is the importance of further investigating the correlation between high fat diets (HFDs) and Polycystic Ovary Syndrome (PCOS) to develop effective prevention and management strategies for PCOS patients. The authors suggest that future research should focus on the effects of different types and proportions of fats on PCOS. No limitations were explicitly mentioned by the authors in this text.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that high-fat diets (HFDs) can exacerbate metabolic and reproductive outcomes in Polycystic Ovary Syndrome (PCOS) patients by causing insulin resistance and hyperinsulinemia, leading to increased fat synthesis and decreased fat breakdown, and increasing the production of inflammatory lipid factors. The authors stress the need for further investigations into the mechanisms and impacts of HFDs on PCOS and the development of evidence-based dietary intervention strategies.\n\nNo limitations are mentioned explicitly in the provided text.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this study is that HFDs can exacerbate the metabolic and reproductive outcomes of PCOS by causing insulin resistance, hyperinsulinemia, and increasing inflammatory lipid factors. However, more in-depth research is needed to fully understand the mechanisms and impacts of HFDs on PCOS, and to develop effective prevention and management strategies.\n\nNo limitations are explicitly provided by the authors. However, they acknowledge that further research is needed to fully understand the complex relationship between HFDs and PCOS and to develop evidence-based interventions. They also mention the need for a comprehensive management approach that includes dietary interventions, physical exercise, weight loss, and medication therapy. Additionally, they call for increased public health awareness and promotion of healthy dietary habits for the prevention of PCOS occurrence and progression.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

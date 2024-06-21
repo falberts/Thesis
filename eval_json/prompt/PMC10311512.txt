@@ -1,0 +1,179 @@
+[START TEXT]This study represents the largest meta-analysis and meta-regression on postpartum depression prevalence in the literature to date. We found that the unadjusted global prevalence rate of PPD in studies utilizing the EPDS scale is 19.18% (95% CI: 18.02 to 20.34%). Adjusting for the recommended EPDS cutoffs yielded a prevalence of 19.9% for possible PPD (>10) and 18.28% for probable PPD (>13). These estimates are slightly higher than the previous calculation by Hahn-Holbrook et al., which found a global PPD prevalence of 17.7% (95% CI: 16.6–18.8%). One explanation for this discrepancy is that the current study adds new data with a higher proportion of studies from relatively low- and middle-income countries, that tend to report higher rates of PPD. Between South Africa, which has the highest PPD prevalence rate (44%), and Singapore, which has the lowest PPD prevalence rate, there is a 41% difference. Considering there are many low-income countries missing from this analysis, it is plausible that global PPD is even more prevalent than our findings suggest. While several methodological variables predicted cross-national variation in PPD, specifically the timing of assessment and EPDS cutoff used, the strongest individual predictor in this study was SSB consumption.
+Our meta-regression revealed that SSB consumption predicted PPD prevalence both between-countries and within-countries. Specifically, countries that consumed more SSBs, on average, had higher rates of PPD prevalence. This finding alone could be attributed to other cultural differences that co-vary with SSB consumption, although this effect was still significant when methodological factors and GDP were included in the model. However, we also found that, within the same country, in years with higher SSB consumption, studies tended to report higher rates of PPD in that country. This within-country finding lends credence to the hypothesis that it is SSB consumption, and not some other cultural factor, that contributes to higher rates of PPD.
+The current study did not find a statistically significant association between seafood consumption and cross-national PPD prevalence, contradicting a previous report by Hibbeln and colleagues. Specifically, the previous study correlated DHA in the milk of breastfeeding mothers to PPD rates by country (N = 23), and found that countries that consumed more seafood tended to have lower rates of PPD prevalence. There are several possible reasons for the discrepancy between our current findings and this previous report. For example, the current study examines twice the number of countries (N = 46) and includes countries with more diverse economic conditions. Additionally, the current study used meta-regression which weighted countries and studies, and controlled for methodological variables and GDP, while Hibbeln did not control for these confounding variables. Although our findings were not significant, the effect we found was in the same direction as Hibbeln. Additionally, Hibbeln was published over two decades ago, and it is possible that breastfeeding women were not discouraged from consuming certain seafood in the same way they are now due to concerns surrounding mercury poisoning. Future directions focusing on PPD and seafood consumption, particularly seafood high in omega-3 fatty acids, is warranted. In addition to seafood consumption, we found no relationships between fiber, yogurt, fruit, and vegetable consumption and national PPD prevalence. Despite these null results at the cross-national level, we encourage researchers to continue to examine the relationship between these dietary factors and PPD.
+Our results have several important implications for research and policy to prevent PPD. For example, our research suggests that policies that help reduce SSB consumption may help reduce PPD prevalence. There are several existing policies shown to reduce SSB consumption at the national and regional level. For example, implementing a “sugar tax” at the national level disincentivizes the consumer from purchasing SSB by increasing the overall price. Therefore, causing a loss in SSB revenues and encouraging SSB companies to reduce the sugar in their product so that it does not qualify as a high-sugar product. In addition, the extra tax revenue from this strategy can then be used to offset the health care costs associated with sugar-related disease. Currently, 45 countries in the world have some type of sugar tax, however, in the US, sugar taxes are in place in only a few cities. Due to the availability of cross-national and within-country sugar consumption data, future research could explore whether implementing sugar taxes changes national rates of depression. While a sugar tax is a good start, more aggressive policies and behavioral health campaigns focusing on limiting SSB consumption may also be necessary. For example, interventions could focus on limiting the consumption of common ingredients in most SSBs. In the last 50 years, the use of high fructose corn syrup has increased dramatically, largely due to the fact that it is inexpensive and manufacturing friendly. National and local policies to reduce the use of high fructose corn syrup may be a viable step to improve maternal mental health. However, all types of added sugar are low in nutrient density, and high fructose corn syrup is just one factor in a massive global issue. Therefore, while focusing on types of added sugars in policymaking may lead to some health improvement, reducing consumption of all sugar types would be most impactful.
+In addition to gaining a deeper understanding of the impact caused by different types of sweeteners, future work on this topic should focus on identifying additional cultural factors that may further explain variance in national PPD prevalence. For example, environmental and lifestyle factors such as exercise, obesity, partner support, and mindfulness practices, which have been linked to PPD, in individual studies might also be linked to PPD on the national level. Future research could also focus on micronutrients, such as vitamin D, that previous research have shown play an important role in mental health.
+Although this study had several strengths, including the large number of studies representing populations with varied lifestyles, economic backgrounds, and diets, our results should be considered alongside several important limitations. First, our study focused on a widely used self-report PPD measure instead of clinical interviews. Self-report PPD measures tend to yield higher estimates than clinical interviews, and therefore, the estimates in this study are likely higher than if we had used studies that conducted interview-based methods. However, given that interview methods are less common than self-report measures, especially in low-income countries, we felt that it was important to utilize a more representative measure. We also felt that potentially overestimating PPD would be safer than underestimating PPD, given its detrimental consequences. We use is nationally representative, and some countries estimates are much more reliable than others. We urge readers to consider the 95% confidence intervals when considering our national PPD prevalence estimates. More research reporting PPD prevalence is essential for providing more accurate prevalence estimates that. Secondly, collecting accurate nutrition data is notoriously challenging. This is why we used the Global Dietary Database, which has the most comprehensive empirical data on dietary intake across and within nations. Even so, it is difficult to identify inaccuracies within it. Thirdly, when using aggregate data, it is important to remember the ecological fallacy- that analyses based on area-level averages can yield very different conclusions than those that would be obtained from an analysis at the individual level.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study found a significant association between sugar-sweetened beverage (SSB) consumption and postpartum depression (PPD) prevalence, both between and within countries, suggesting that policies targeting SSB consumption may help reduce PPD rates, while also highlighting the need for further research on dietary factors and PPD.\n\nThe authors explicitly acknowledge several limitations in the study. Firstly, they note that the use of a self-report measure for PPD may have resulted in higher prevalence estimates compared to clinical interviews. Secondly, while they utilized the Global Dietary Database for nutrition data, they acknowledge the inherent challenges in collecting accurate nutrition data. Lastly, they mention the ecological fallacy, cautioning that analyses based on area-level averages may yield different conclusions than individual-level analyses. These limitations underscore the need for caution in interpreting the findings and highlight areas for improvement in future research.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations mentioned in the original text are present in the summary."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations. The main finding of the text is explained in more detail than other summaries, while still being concise."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "The most important finding in this study is that sugary drink consumption is associated with a higher prevalence of postpartum depression.\n\nYes, the authors explicitly acknowledge several limitations of the paper. First, the study relied on self-reported PPD measures instead of clinical interviews, which may lead to overestimation of PPD prevalence. Second, collecting accurate dietary data is challenging and the study relied on a database that may have inaccuracies. Third, the study used aggregate data, and ecological fallacy may limit the generalizability of the findings to the individual level.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations mentioned in the original text are present in the summary."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations. The main finding of the study is not as complete as other summaries, which explain that the association between postpartum depression and sugar-sweetened bevarages exists both between and within countries."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that the consumption of sugar-sweetened beverages (SSBs) is associated with a higher prevalence of postpartum depression (PPD) both between and within countries.\n\nThe authors of the study explicitly acknowledge several limitations:\n\n1. The study relied on a widely used self-report PPD measure instead of clinical interviews. Self-report measures tend to yield higher estimates than clinical interviews, so the estimates in this study are likely higher than if interview-based methods were used. However, the authors argue that self-report measures are more common, especially in low-income countries, and therefore more representative. They also suggest that overestimating PPD might be safer than underestimating it, given its detrimental consequences.\n\n2. Collecting accurate nutrition data is challenging. The study used the Global Dietary Database, which has the most comprehensive empirical data on dietary intake across and within nations. However, it is difficult to identify inaccuracies within it.\n\n3. The study used aggregate data, which can lead to the ecological fallacy. This means that analyses based on area-level averages can yield very different conclusions than those that would be obtained from an analysis at the individual level. Therefore, the findings at the national level might not necessarily apply to individuals. \n\nThese limitations highlight the complexity of studying PPD and the need for further research in this area.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "All limitations mentioned in the original text are present in the summary."
+            ],
+            "Coherence": [
+                2,
+                "The summary uses bullet points despite the instructions in the prompt to not include them. However, the summary is still coherent and does not include hallucinations. Furthermore, the summary explains the nuances of some of the limitations, such as self report data being more common especially in low-income countries, and therefore more representative. This is why it still receives a 2 instead of a 1 in terms of coherence."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The largest meta-analysis and meta-regression on postpartum depression (PPD) prevalence found that the unadjusted global prevalence rate using the EPDS scale is 19.18%, with possible PPD at 19.9% and probable PPD at 18.28%. The strongest predictor of PPD prevalence was SSB consumption, both between and within countries. However, the study did not find a significant association between seafood consumption and PPD prevalence, contradicting a previous report. Limitations include the use of self-report measures instead of clinical interviews, the difficulty in accurately collecting nutrition data, and the ecological fallacy of using aggregate data. The authors acknowledge the need for further research to understand the role of additional cultural factors and micronutrients in PPD prevalence. They also suggest that policies aimed at reducing SSB consumption may help prevent PPD. No explicit mention of limitations related to the sample size or the specific countries included in the study.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The largest meta-analysis and meta-regression on postpartum depression (PPD) prevalence found that the unadjusted global prevalence rate using the EPDS scale is 19.18%, while the adjusted prevalence of possible and probable PPD is 19.9% and 18.28%, respectively. The most significant predictor of cross-national variation in PPD was SSB consumption. The authors acknowledge some limitations, including the potential for overestimation of PPD due to the use of self-report measures, challenges in collecting accurate nutrition data, and the ecological fallacy of analyzing aggregate data. The study did not find a statistically significant association between seafood consumption and PPD, contradicting a previous report, and also did not find relationships between fiber, yogurt, fruit, and vegetable consumption and national PPD prevalence. The authors encourage researchers to continue studying the relationship between these dietary factors and PPD, and suggest that policies reducing SSB consumption and high fructose corn syrup use may help prevent PPD. The text does not mention any other limitations.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The largest meta-analysis and meta-regression on postpartum depression prevalence found that the unadjusted global prevalence rate is 19.18%, which increases to 19.9% for possible cases and 18.28% for probable cases after adjusting for EPDS cutoffs. The strongest predictor of PPD was SSB consumption. The study did not find a significant association between seafood consumption and PPD prevalence, contrasting previous research. Limitations included the use of self-report PPD measures and inaccuracies in nutrition data. The ecological fallacy should be considered when interpreting aggregate data.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The largest meta-analysis and meta-regression on postpartum depression (PPD) prevalence revealed a global unadjusted prevalence of 19.18% (95% CI: 18.02 to 20.34%), with significant cross-national variation influenced by SSB consumption. SSB consumption was the strongest individual predictor of higher PPD prevalence, both between- and within- countries.\n\nThe authors explicitly acknowledge several limitations:\n\n1. The analysis relied on self-reported PPD measures, which tend to yield higher estimates than clinical interviews, potentially overestimating PPD prevalence.\n2. The dietary data used was collected through a global database, which may have inaccuracies and limitations.\n3. The analysis employed aggregate data, which may not represent individual-level findings, potentially leading to different conclusions from individual-level studies.\n4. The findings did not differentiate between types of depression, such as major versus minor.\n\nOverall, this study sheds light on the significant cross-national variation in PPD prevalence and identifies SSB consumption as a potential risk factor. However, the limitations, such as the use of self-reported measures and potential inaccuracies in dietary data, must be considered when interpreting the results. Future research should focus on clinical interviews and more accurate dietary data to provide more precise prevalence estimates and insights into specific risk factors.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The largest meta-analysis on postpartum depression (PPD) prevalence to date found that unadjusted global prevalence using the EPDS scale is 19.18% (95% CI: 18.02 to 20.34%). After adjusting for recommended EPDS cutoffs, the prevalence of possible PPD was 19.9% and probable PPD was 18.28%. The study also found a significant relationship between SSB consumption and PPD prevalence.\n\nNo explicit limitations are mentioned in the document. However, the authors note that cross-national variations in PPD prevalence may be influenced by methodological variables, such as the timing of assessment and EPDS cutoff used. They also acknowledge that their study focused on self-report PPD measures rather than clinical interviews, which may result in higher estimates, but they felt it was safer to overestimate PPD rather than underestimate it. The authors also mention the challenges in collecting accurate nutrition data and the importance of remembering the ecological fallacy when interpreting aggregate data.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

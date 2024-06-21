@@ -1,0 +1,87 @@
+{
+    "zeroshot_original": {
+        "summ": "The study reports that MAL resection with stenting is a safe procedure for patients with Down syndrome when performed by experienced surgeons. Despite a slightly longer operative time and higher rate of major complications in the group with MAL compression caused by a bleeding gastrointestinal source (BG), the operative time and postoperative complications were lower in the group without MAL compression (DG). Limitations of the study include its retrospective design, which may introduce selection bias, and the small sample size which limits the statistical power. Additionally, the paper does not specify whether all patients in the BG group had pre-existing MAL compression or if it was a complication from the gastrointestinal bleeding. The document also notes the lack of consensus in the literature regarding the use of endovascular revascularization for MAL compression, and suggests further research is needed to determine the optimal timing and patient population for this intervention.",
+        "quality": {
+            "factual consistency": [
+                3,
+                "The summary includes correct information but also introduces details not present in the original text, such as the distinction between patients with MAL compression caused by a bleeding gastrointestinal source and those without. Additionally, it incorrectly suggests that the paper does not specify whether all patients in the BG group had pre-existing MAL compression or if it was a complication from the gastrointestinal bleeding."
+            ],
+            "coverage": [
+                3,
+                "The summary mentions the retrospective design and small sample size as limitations but does not cover all the limitations mentioned in the original text."
+            ],
+            "coherence": [
+                3,
+                "The summary is mostly coherent but it hallucinates details that are not present in the source text."
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The study suggests that laparoscopic MAL release with stenting during the same procedure is a safe and feasible technique for patients with Dunbar syndrome, resulting in lower operative times and postoperative complications compared to open access surgery in experienced hands. No clear evidence exists on the need for endovascular revascularization after MAL release, and the timing remains uncertain. The authors acknowledge some limitations, including the retrospective design, the small sample size, and the lack of a standardized approach for post-operative management of TC or SMA stenosis after MAL release. The authors also note that only a few studies have reported series of more than 10 cases for comparison, and more research is needed to establish the optimal management strategy. They recommend systematic investigations for every patient found to have an MAL, and consideration of a laparoscopic release and stenting for symptomatic Dunbar syndrome patients. No restrictions apply.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary accurately reflects the main findings and limitations mentioned in the original text."
+            ],
+            "coverage": [
+                1,
+                "All limitations are mentioned in the summary."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The study compares the outcomes of patients with Dunbar syndrome and gallstone pancreatitis (GAA rupture) who underwent magnetic antral loop (MAL) release with stenting. The authors observed that MAL release through a laparoscopic approach with stenting during the same procedure is a feasible and safe technique, although a small sample size and the retrospective design limit statistical analysis. They propose that every patient with an incidental finding of an MAL should undergo further evaluation if symptomatic. No explicit limitations are mentioned in the text.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary accurately reflects the main findings and limitations mentioned in the original text."
+            ],
+            "coverage": [
+                1,
+                "All limitations are mentioned in the summary."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that in a series of patients with Dunbar syndrome undergoing MAL release and stenting, two patients had major complications related to stenting (occlusion and displacement) requiring reintervention. No clear evidence is present in the literature regarding the necessity and timing of endovascular revascularization in all cases. Limitations include the retrospective design, small sample size, and lack of consideration of potential confounding factors, such as age and CT expiratory velocity, which impact the clinical outcome. The authors suggest a systematic combined approach of a laparoscopic release of the MAL with stenting during the same procedure for symptomatic patients presenting with Dunbar syndrome. However, they propose that every patient with an incidental finding of an MAL should undergo further investigations.",
+        "quality": {
+            "factual consistency": [
+                1,
+                "The summary accurately reflects the main findings and limitations mentioned in the original text."
+            ],
+            "coverage": [
+                1,
+                "All limitations are mentioned in the summary."
+            ],
+            "coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The study reports that MAL resection with stenting during the same procedure is a safe and effective approach for patients with DS, as demonstrated in a series of 13 patients, with a low conversion rate and fewer postoperative complications in the DG compared to the BG. The authors suggest that every patient with an incidental finding of an MAL should undergo systematic investigations, and in symptomatic cases, a laparoscopic release of the MAL and stenting of TC or SMA should be considered. No explicit limitations are mentioned by the authors.\n[RANK: 1]\n[EXPLANATION: Factual consistency: 1, The summary accurately reflects the main finding and key information in the provided text.\n\nCoverage: 1, The summary covers all important aspects mentioned in the document about the study and its findings.\n\nCoherence: 1, The summary flows logically from one point to the next and remains focused on the study's findings.]\n\nThe authors present a case series involving 13 patients with Dunbar syndrome (DS) who underwent MAL resection and stenting as part of the same procedure. They report that all patients were successfully treated, with two major complications resulting from stent complications—stent occlusion and CT dissection. No clear evidence exists regarding the need for and timing of endovascular revascularization. The authors suggest a systematic combined approach of laparoscopic MAL release and stenting as a safe and feasible technique. They propose that every patient with an incidental finding of an MAL should undergo evaluations. Limitation-wise, the study may be limited by its retrospective design and small sample size.\n[RANK: 2]\n[EXPLANATION: Factual consistency: 1, The summary accurately reflects the main finding and key information in the provided text.\n\nCoverage: 1, The summary covers all important aspects mentioned in the document about the study and its findings.\n\nCoherence: 2, The summary remains focused on the main findings but may include additional information that could be considered context or background, rather than being directly related to the study's contributions.]\n\nThis study describes a case series of 13 patients with Dunbar syndrome who underwent MAL",
+        "quality": {
+            "factual consistency": [
+                3,
+                "The summary states that no limitations are mentioned explicitly which is untrue. Also, it includes a ranking statement not present in the original text, which affects factual consistency."
+            ],
+            "coverage": [
+                3,
+                "No limitations are mentioned in the summary itself."
+            ],
+            "coherence": [
+                3,
+                "The summary includes the ranking system from the example summaries: this should not be included in the summary itself and is considered a hallucination."
+            ]
+        }
+    }
+}

@@ -1,0 +1,183 @@
+[START TEXT]Seventeen participants (68%) performed better in the WN condition, 6 (24%) showed the same performance, and only 2 (8%) performed worst with noise. These results suggest that WN improves WM by some means although there was no statistical difference between the NAN and AN condition on CI.
+This finding may be explained by the physical phenomenon, the Stochastic Resonance (SR). In neuroscience, the term SR has been used to describe a phenomenon in which a very weak signal can be reinforced by the addition of WN. The WN frequencies, corresponding to the frequencies of the original signal, would resonate with each other and amplify the original signal without amplifying the rest of the WN, which results in an increase in the S/N ratio and makes the original sign more prominent. SR concept was first used by Pawel Jastreboff as one of the factors that leads to habituation of symptoms in tinnitus retraining therapy. However, use the SR to explain the positive influence of WN on the performance of WM tests in our study, from an acoustical point of view, seems insufficient.
+Schilling et al. (2021) hypothesized that SR regulates neural activity based on the well-known residual-inhibition phenomenon. The presence of external noise reduces neural activity, resulting in a decline in the perception of tinnitus. SR may explain how the brain processes inputs in noisy environments from individual synapses and single neurons to complete neural networks. Applying this reasoning model, it can be hypothesized that external WN stimuli may reduce neural activity, suppress tinnitus awareness, and free up additional cognitive resources for high WM task performance.
+However, the effects of WN on WM remain unclear. There is no consensus in the literature, perhaps because of the variety of approaches used for these measurements. Although noise has often been considered a blurring factor for standard activeness, recent theoretical and experimental studies have shown a plausible constructive role, since it can improve neuronal firing steadiness and constancy in single and cluster neurons. Othman et al. (2019) studied the influence of WN on low WM in normal hearing. Functional Magnetic Resonance Imaging (fMRI) was used to understand how neural networks act while performing different S/N tasks. They observed a significant improvement, revealed by greater frontal, primary auditory, and anterior cingulate cortex activation in all noise conditions, except for the 0 dB S/N ratio. They concluded that the optimal S/N ratio to improve WM performance was between +10 and +5 dB. In our study, the most frequent S/N ratios among participants with better performance on noise WMAB were +30 and +15 dB, suggesting that tinnitus patients may need a higher S/N ratio to achieve SR benefits.
+The MoCA test revealed that 48% of the participants had mild cognitive impairment and 20% showed low WM capacity (performance less than 3 spans). Lee et al. (2020) studied MoCA-K (Korean version) in 58 participants aged >65 years and observed that 17.2% performed less than normal. They established a relationship between a THI ≥ 30 and low MoCA-K rating and hypothesized that tinnitus can negatively affect attentional orientation and executive control and reduce cognitive processing speed. The exact physiopathology underlying these findings has yet to be fully elucidated. In the present study, four patients aged ≥ 65 years had lower MoCA performance. However, we did not find any relationship between this and THI scores, perhaps due to the small sample size.
+Psychiatric disorders such as anxiety and depression are prevalent in chronic tinnitus patients. Mild-to-moderate to severe depressive symptoms were observed in 52% of our sample, and anxiety symptoms were observed in 20%. A recent United States study of 21.4 million adults with tinnitus reported a prevalence of 25.6% of depression symptoms and 26.1% of anxiety symptoms. The difference between our study and the literature may be attributed to sample size.
+A great variability in results was observed in the HFA; 44% of participants aged 51 years or older showed lower auditory thresholds. These findings are similar to those of Vielsmeier et al. (2015), who observed HFA impairment among older adults, perhaps because of the greater sensitivity in detecting such changes. They also noticed a strong association between the worst thresholds in HFA and tinnitus laterality, which was not observed in the present study. A possible explanation is that 48% of our HFA auditory thresholds were close to normal compared to 17% of those in the aforementioned study. Four participants in our study had a complete lack of auditory perception bilaterally for HFA and poor performance on the WMAB; these data are similar to those reported by Waechter et al. (2019), who linked cognitive performance to the absence of auditory thresholds for HFA. A possible explanation may be the finding of Melcher et al. (2013), who related a lower amount of gray matter (in the subcallosal area) to lower auditory thresholds for HFA. As the subcallosal area manages attentional processes, less grey matter may imply lower complex cognitive task performance. Patients with tinnitus may experience cognitive decline due to auditory threshold deterioration for HFA or due to the symptom itself, in which awareness can be more intrusive and bothersome for some participants.
+In general, our findings regarding WM function are in agreement with part of the literature that reports a negative influence of tinnitus, which seems to increase cognitive load and decrease residual ability on task performance. Thus, during a WM task, voluntary effort is required for consciousness and control and fewer cognitive resources are required for good performance. There is still no consensus on a WM gold standard test. Clinical trials do not seem to control bias variables such as age, sex, hearing loss, education, fatigue, depression and anxiety symptoms, sleep pattern, and emotional motivation.
+Our study revealed a relationship between higher THI scores and worse WMAB performance; however, since our sample was small and statistical significance was observed only in the mean analysis, this finding should be considered with caution. The data disagree with Nagaraj et al. (2020), who did not show any correlation between the THI and high WM test responses. The authors suggested that their findings could not be generalized as the sample size studied was not significant. No similar studies have evaluated the effect of WN on high WM tests among participants with chronic tinnitus and normal hearing.
+This study has limitations because the sample showed great variability in terms of age, cognition, and years of education. The presence of the control group could have contributed to a better understanding of the influence of white noise. However, such a group should be matched exactly with age, cognitive level, and education to avoid any bias. In addition, we cannot overlook the possible influence of personal motivation. during the test performance.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study found that white noise improved working memory performance in a majority of participants with chronic tinnitus, suggesting a potential role for stochastic resonance, but acknowledged limitations including sample variability and lack of a control group.\n\nThe authors explicitly acknowledge limitations in their study. They mention the variability in the sample regarding age, cognition, and years of education, highlighting the potential for confounding factors. Additionally, they note the absence of a control group, which could have provided clearer insights into the influence of white noise. The authors recognize the need for precise matching of such a control group with respect to age, cognitive level, and education to avoid bias. Moreover, they hint at the possible influence of personal motivation during test performance as another limitation. These acknowledgments demonstrate an awareness of the study's constraints, including sample heterogeneity and methodological considerations, which could impact the generalizability and interpretation of the findings.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the original paper."
+            ],
+            "Coverage": [
+                1,
+                "The summary contains all limitations mentioned by the authors in the original paper."
+            ],
+            "Coherence": [
+                2,
+                "Some limitations are already mentioned in the first sentence, while only the main finding of the study should be explained here. This is unnecessary, especially since all limitations are explained in more detail later in the summary."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "The study suggests that white noise may improve working memory performance in chronic tinnitus patients, but the authors acknowledge limitations due to sample variability and lack of control group.\n\nYes, the authors explicitly acknowledge limitations of the paper. The limitations include:\n\n* Great variability in the sample with regards to age, cognition and years of education.\n* Lack of a control group which could have helped understand the influence of white noise better. However, creating a control group that exactly matches the tinnitus group in terms of age, cognitive level and education would be challenging.\n* Possible influence of personal motivation on the test performance which the study design cannot account for.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the original paper."
+            ],
+            "Coverage": [
+                1,
+                "The summary contains all limitations mentioned by the authors in the original paper."
+            ],
+            "Coherence": [
+                2,
+                "The summary uses bullet points despite the instructions in the prompt to not include them. However, the su,,ary is still coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that there is a relationship between higher Tinnitus Handicap Inventory (THI) scores and worse performance on the Working Memory Assessment Battery (WMAB), suggesting that tinnitus may increase cognitive load and decrease residual ability on task performance.\n\nThe authors of the study explicitly acknowledge several limitations. They note that their sample showed great variability in terms of age, cognition, and years of education, which could have influenced the results. They also mention the absence of a control group, which could have provided a better understanding of the influence of white noise. However, they point out that such a group would need to be exactly matched with age, cognitive level, and education to avoid any bias. Lastly, they highlight the potential influence of personal motivation during the test performance, which could not be controlled for in their study. These factors may limit the generalizability of the study's findings.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the original paper."
+            ],
+            "Coverage": [
+                1,
+                "The summary contains all limitations mentioned by the authors in the original paper."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The study found that 68% of participants performed better in a Working Memory task with white noise (WN) compared to no noise, while 24% showed no difference, and 8% performed worst with noise. The authors suggest that Stochastic Resonance (SR) may explain this phenomenon by reducing neural activity and freeing up cognitive resources for higher WM task performance. However, the effects of WN on WM remain unclear, and more studies are needed to understand the constructive role of noise. The study also revealed a high prevalence of mild cognitive impairment and low WM capacity, as well as anxiety and depression symptoms in chronic tinnitus patients. However, the small sample size and lack of a control group limit the generalizability of the findings. Additionally, the relationship between higher tinnitus handicap scores and worse WM performance was not statistically significant, and more research is needed to understand the effect of WN on high WM tests among participants with chronic tinnitus and normal hearing.\n\nNo explicit limitations are provided by the authors. However, possible limitations could be the small sample size and the lack of a control group that could have helped better understand the influence of white noise and avoid any bias. Additionally, the influence of personal motivation during test performance was not taken into account. Further research is needed to support the findings, especially in the areas of WM and Stochastic Resonance.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The most important finding of this study is that 68% of the seventeen participants showed better performance in the WN condition for working memory tests, while 24% showed the same performance, and 8% performed worse. The authors suggest that Stochastic Resonance (SR) may explain this phenomenon, but they also acknowledge that this hypothesis may be insufficient from an acoustical point of view. They further suggest that SR may regulate neural activity by reducing neural activity and suppressing tinnitus awareness, freeing up cognitive resources for high working memory task performance.\n\nThe authors explicitly acknowledge some limitations of their study. They mention the limited consensus in the literature on the effects of white noise on working memory and suggest that the variety of approaches used for these measurements may contribute to the lack of consensus. They also acknowledge the need for more research to fully understand the effects of white noise on working memory and to determine the optimal S/N ratio for maximizing these benefits. Another limitation they mention is the impact of individual differences, such as age, cognition, and years of education, on the results of the study. They suggest that future studies should control for these factors to minimize potential sources of confounding. They also note that the sample size in their study may have been too small to reach statistically significant conclusions, and that larger studies may be necessary to confirm their findings. Lastly, they mention the lack of a control group in their study, which may have limited their ability to definitively attribute the observed effects to the presence of white noise, as other factors may have influenced the results.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this study is that white noise (WN) improved working memory (WM) performance in some participants with tinnitus, possibly through the Stochastic Resonance (SR) phenomenon or by reducing neural activity and suppressing tinnitus awareness. However, the effects of WN on WM are not yet fully understood, and there is no consensus in the literature about the role of noise in WM tasks. The sample in this study had great variability in age, cognition, and education levels, and the study could have benefited from a control group for a better comparison. The authors also acknowledged the potential influence of personal motivation on test performance. (limitations: sample variability, small sample size, lack of control group, absence of assessment of personal motivation)",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that seventeen out of seventeen participants showed improved performance in a working memory task with added white noise, possibly due to stochastic resonance or the suppression of tinnitus awareness, although the mechanisms remain unclear. The authors acknowledge limitations such as the lack of a control group, the variability in sample characteristics, and the small sample size, but no other limitations were explicitly stated.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this study is that seventeen out of seventeen participants showed improved working memory performance with white noise (WN), while there was no statistical difference between the WN and no white noise conditions on the signal-to-noise ratio (CI). The authors suggest that this phenomenon might be explained by Stochastic Resonance (SR), but concede that more research is needed to fully understand the role of WN in working memory enhancement. The authors mention several limitations, including the lack of a control group, potential bias due to personal motivation, and the need for further research to understand the underpinnings of the SR effect on working memory.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

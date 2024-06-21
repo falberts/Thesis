@@ -1,0 +1,191 @@
+[START TEXT]This study has shown that common VMI abnormalities are heritable and, to our knowledge, is the first classical twin study to do so. Based on this work, future genetic studies, such as genomewide association studies (GWAS) may be able to elucidate mechanisms by which VMI abnormalities form and aid the development of future potential treatments.
+This study found the heritability of ERM to be 38.9% (33.6–52.8) with individual environmental effects (which includes grading error and stochastic, or random, effects) explaining the remaining variance. The concordance of ERM for MZ and DZ twins was 0.47 and 0.27, respectively (i.e. if one twin in an MZ twin pair has ERM, the probability their co-twin having ERM is 0.47, and if one twin in a DZ twin pair has ERM, the probability their co-twin having ERM is 0.27). The heritability and higher concordance of ERM in MZ than DZ twins suggests a role for genetic factors in the development of ERM.
+After removing self-reported and SD-OCT derived secondary causes of VMI, the concordances of ERM, PVD, and VMA changed very little and, in fact, the risk ratio for MZ/DZ increased for each VMI abnormality: ERM = 1.89, PVD = 1.47 and VMA = 1.8.
+To date, few studies with small participant numbers have explored the genetics of ERM and these have predominantly focused on gene expression in vitreous samples of eyes undergoing ERM surgery. From eyes undergoing surgery for idiopathic epiretinal membrane, genes involved in angiogenesis and wound healing, such as IL6, TGFB2, and VEGFA among others have been highlighted, although these changes may reflect expression changes consequent to rather than causal of ERMs. GWASs with large sample sizes are needed to identify genes implicated in the development of ERM. Although age, posterior vitreous detachment, and ERM in the fellow eye have been identified as risk factors for idiopathic ERM development, few environmental risk factors have been reported or replicated. A pooled odds ratio of seven population-based cohorts found smoking to be protective for ERM, OR = 0.67 (0.58–0.78), although the results should be interpreted with caution due to possible survivor bias.
+The heritability of VMA and PVD was estimated at 48.1% (95% CI = 33.6–58), and 53.2% (95% CI = 41.8–63.2), respectively. The concordance of VMA and PVD for MZ and DZ twins was 0.36 and 0.22, and 0.48 and 0.38, respectively, which suggests that genetic factors may influence adherence of the vitreous at the macula. Indeed, mutations in laminin alpha-5, a gene encoding extracellular matrix glycoproteins implicated in cell adhesion, have been associated with early posterior vitreous detachment independent of age in a family study. This study did not measure the area of VMA but used the European Eye Epidemiology SD-OCT classification of broad VMA >1500 µm or focal VMA <1500 µm. We, like others, found the 2 eyes of the 112 individuals with bilateral VMA were highly correlated, 99.1% shared the same width classification. The majority of twins (88%) had focal VMA, and 49 of 68 twin pairs concordant for VMA shared the same focal classification, with 19 pairs having one individual with narrow and one with broad attachment width. No pairs were concordant for broad width. This study is underpowered to examine heritability of the subtypes of VMA.
+Our study was underpowered to calculate concordances and heritability for FTMH, LMH, and VMT. However, family studies report a higher occurrence of macular hole in family members than unrelated controls, suggesting a genetic component in its development, although unlike twin studies, these types of studies cannot easily control for shared family environmental factors.
+Our overall ERM prevalence estimate in the population over 40 years was 15.6% (14.4–16.9). The reported prevalence estimates for ERM diagnosed from SD-OCT in published literature vary greatly from 4.7% to 52.8% and our estimate lies within this range. The varying ERM prevalence estimates between studies are likely due to differing classifications and definitions of ERM, devices used, and age as well as other characteristics of population demographics.
+Unlike other VMI abnormalities defined by the IVTS group, there is no international consensus on the grading of the severity of ERM from SD-OCT. Some studies have devised their own classifications, but, in this study, an ERM was defined by the presence of a hyper-reflective inner retinal band in either eye, irrespective of stage or severity (as it was in the NICOLA study, which is closest geographically and ethnically to the TwinsUK cohort).
+Different OCT devices and imaging protocols may provide varying image quality which may influence diagnosis of VMI abnormalities and therefore prevalence estimates. For example, in the Blue Mountains Eye Study, a time-domain OCT with lower resolution used in the earlier phases of the study was less accurate for detecting ERM than SD-OCT.
+Variation in prevalence estimates also exists in CFP grading of ERM from 3.4% to 28.9%. Whereas SD-OCT is more sensitive than CFP for detecting ERM, particularly at earlier stages, significant differences in reported prevalence exist between studies and perhaps an international consensus on ERM classification could help ensure better comparability between study estimates.
+Like other studies, we found ERM was associated with increasing age, with a prevalence estimate of 45% (95% CI = 35.9-54.3) over the age of 80 years, similar to prevalence estimates found in other older cohorts of Alienor (52.8%), mean age of 79.4 ± 4.2 years, Montrachet (38.9%), mean age of 82.3 ± 3.8 years, and Beaver Dam Eye Study (34.1%), mean age of 74.1 ± 7.1 years.
+Individual studies differ as to whether sex is associated with ERM. For example, the NICOLA study found the odds of ERM diagnosed on SD-OCT decreased with female sex, odds ratio (OR) = 0.69 (95% CI = 0.52-0.91, P = 0.01). However, a large meta-analysis of risk factors for ERM diagnosed from CFP found the female sex to be a risk factor for ERM OR = 1.34 (95% CI = 1.17–1.53). Our study found no significant sex difference in the prevalence of ERM (male subjects = 15.4% [95% CI = 12.1–19.2], female subjects = 15.9% [95% CI = 11.8–14.1], P = 0.68).
+It is well established that PVD is age-related and associated with high myopia. Subjects in our study with PVD were older than those without (mean age = 66.3 [SD = 6.9] vs. 60.3 [SD = 10.6], P < 0.001, respectively). The prevalence of high myopia (<−6.00 diopters [D]) in MZ and DZ twin pairs was 3.2% (95% CI = 2.3–4.2%) and 2.5% (95% CI = 1.6–3.7%) respectively, P = 0.16. The prevalence of VRI abnormalities in participants with high myopia were slightly higher than overall: ERM = 18.6% (95% CI = 10.3–29.7), PVD = 10.6% (95% CI = 4.4–20.6), and VMA = 5.6% (95% CI = 1.6–13.8). There was no significant difference in mean SER between those with and without PVD. We found a higher prevalence of PVD in female than male subjects, 22.4% (95% CI = 20.9–23.9) vs. 13.5% (95% CI = 10.4–17.1), P < 0.001, respectively. A previous study found PVD progressed at a significantly faster rate in female eyes than male eyes at age 60 years, reporting that changes at the vitreomacular interface occur earlier in women. There are differing results from large population-based studies examining sex differences in myopia. For example, a 2015 UK Biobank study of 107,452 participants (mean age = 56.6 years) reported a higher OR of any myopia and also hypermetropia among women. However, a European meta-analysis of refractive error on 61,946 participants (median age = 62 years) found no significant difference in myopia rates between the sexes. In this twin study, there was no significant difference in the prevalence of high myopia in male versus female subjects (1.8% [95% CI = 0.7–3.9] vs. 3.0% [95% CI = 2.4–3.8], respectively, P = 0.1) and no significant difference in mean SER between male and female subjects (−0.10 [SD = 2.4] and 0.12 [SD = 2.6], respectively, P = 0.26). The higher prevalence of PVD in DZ twins than MZ twins could be explained by a higher average age of DZ twins, given that PVD is strongly age-related. PVD is a well-established risk factor for retinal detachment and therefore understanding its etiology and factors that influence vitreomacular adhesion is important. GWAS with VMA and PVD may highlight specific genetic loci implicated in these VMI abnormalities. The apparent lower prevalence of PVD in the 80 to 89-year-old group may be that with increasing syneresis with age the posterior vitreous face was anterior to the range of the OCT macular cube and so graded as falsely negative in some participants. Although macular SD-OCT is a valuable tool to visualize posterior vitreous detachment, it may lack sensitivity, especially for detecting complete PVD. The sensitivity and specificity for complete PVD detection on SD-OCT varies between studies, with estimates as low as 37.5% and 31.5%, up to 71% and 88%, respectively, whereas the sensitivity of B-scan ultrasonography to detect complete PVD has been reported as 100%. Despite limitations about the diagnostic accuracy of PVD using SD-OCT on macular but not disc images, we were nevertheless able to show concordance for PVD in both MZ and DZ twin pairs and that PVD (complete or incomplete) is heritable, with a model combining additive genetic and environmental effects providing the best fit.
+Our overall prevalence estimate of VMA of 11.8% (95% CI = 10.8–13) is lower than other population-based studies that report using SD-OCT. However, like other population-based studies, we also showed a decreasing prevalence of VMA with age (after 60 years). This is likely due to complete posterior vitreous detachment which is strongly age-related.
+In other studies, VMA has been found to be more common in men than women. The reasons for this sex difference are unknown; it has been hypothesized that lower levels of hyaluronic acid in women may influence vitreomacular adhesion and lead to earlier posterior vitreous detachment.
+The female preponderance of the TwinsUK cohort may partially explain an overall lower population prevalence of VMA, although we found a lower prevalence of VMA in men than women (7.1% [95% CI = 4.9–10.0] vs. 12.5% [95% CI = 11.3–13.7], P < 0.001, respectively). Differences in VMA grading between studies and a relatively small proportion of men (13.4%) in TwinsUK may mean we are underpowered to accurately report true sex differences in VMA.
+In this twin study, there was a higher proportion of ERM in pseudophakic eyes than phakic eyes which has been reported in previous studies. For example, the Alienor Study (mean age = 79.4 years) reported stage 1 ERM based on SD-OCT imaging in 51% of pseudophakic eyes versus 40.1% in phakic eyes (P = 0.0002). Using the same SD-OCT ERM classification as Alienor, a cross-sectional study of younger participants attending KEYE Eye Centre, Seoul, Korea, for cataract surgery (mean age = 58.7 years) reported an ERM prevalence of 18.2% in phakic eyes.
+Although this twin study is large, with a wide age range of subjects all examined with SD-OCT, participants of the TwinsUK cohort are predominantly White Caucasian women and generally healthy. TwinsUK may therefore not be representative of the UK population as a whole and there is likely a healthy volunteer bias. Furthermore, we may be underpowered to accurately quantify sex differences in VMI abnormalities. Participants had no measure of visual acuity and therefore the impact on visual function cannot be assessed. Given the relative rarity of LMH and MH in the population, even with over 3400 participants, we did not have enough power to estimate their heritability. The prevalence of self-reported retinal detachment in this cohort was 1.4%. The estimated incidence of retinal detachment in the United Kingdom is 6.3 to 17.9 cases per 100,000 people. Questionnaire data are subject to recall bias and it is likely that participants may have confused retinal detachment with posterior vitreous detachment.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study identified significant heritability of various vitreomacular interface (VMI) abnormalities, suggesting a genetic influence on their development, with potential implications for future genetic studies and treatment approaches.\n\nThe authors acknowledge several limitations of the study. Firstly, the TwinsUK cohort, consisting predominantly of White Caucasian women, may not be fully representative of the UK population, possibly introducing a healthy volunteer bias. Secondly, the study's sample size might not provide sufficient power to accurately quantify sex differences in VMI abnormalities or estimate heritability for less common abnormalities like lamellar macular holes and full-thickness macular holes. Additionally, the lack of visual acuity measurements limits the assessment of the impact of these abnormalities on visual function. Lastly, the reliance on questionnaire data for self-reported retinal detachment introduces potential recall bias and confusion with posterior vitreous detachment, impacting the accuracy of incidence estimates.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                3,
+                "The summary fails to mention the limitations of lower sensitivity of using Spectral-Domain Optical Coherence Tomography (SD-OCT) on macular but not disc images for detection of PVD. Though the authors have used additional methods to mitigate this, it should still be mentioned."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "This twin study found that common Vitreomacular Interface (VMI) abnormalities are heritable and estimates the heritability of ERM to be 38.9%.\n\nYes, the authors explicitly acknowledge limitations of the paper. The authors mention several limitations including: \n* The TwinsUK cohort may not be representative of the general population as it is predominantly White Caucasian women and relatively healthy. \n* The study may be underpowered to accurately report sex differences in VMI abnormalities. \n* Participants had no measure of visual acuity and therefore the impact on visual function cannot be assessed. \n* Due to the relative rarity of some VMI abnormalities, the study was not able to estimate the heritability of LMH and MH. \n* Questionnaire data are subject to recall bias and participants may have confused retinal detachment with posterior vitreous detachment.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                3,
+                "The summary fails to mention the limitations of lower sensitivity of using Spectral-Domain Optical Coherence Tomography (SD-OCT) on macular but not disc images for detection of PVD. Though the authors have used additional methods to mitigate this, it should still be mentioned."
+            ],
+            "Coherence": [
+                2,
+                "The summary is coherent and does not include hallucinations. However, bullet points are used despite the instructions in the prompt to not include them. Furthermore, the main finding of the study is too specific, mentioning the percentage of ERM heritability."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that common Vitreomacular Interface (VMI) abnormalities such as Epiretinal Membrane (ERM), Posterior Vitreous Detachment (PVD), and Vitreomacular Adhesion (VMA) are heritable, suggesting a role for genetic factors in their development.\n\nRegarding the limitations, the authors explicitly acknowledge several. Firstly, the TwinsUK cohort participants are predominantly White Caucasian women and generally healthy, which may not be representative of the UK population as a whole, indicating a potential healthy volunteer bias. Secondly, the study was underpowered to accurately quantify sex differences in VMI abnormalities and to estimate the heritability of Lamellar Macular Hole (LMH) and Full-Thickness Macular Hole (FTMH) due to their rarity. Thirdly, participants had no measure of visual acuity, so the impact on visual function could not be assessed. Fourthly, the diagnostic accuracy of PVD using Spectral-Domain Optical Coherence Tomography (SD-OCT) on macular but not disc images may lack sensitivity, especially for detecting complete PVD. Lastly, the authors mention that questionnaire data are subject to recall bias, and it is likely that participants may have confused retinal detachment with posterior vitreous detachment. These limitations could potentially affect the interpretation and generalizability of the study's findings.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The information in the summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary mentions all limitations present in the original paper."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include limitations."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The study found that common vitreomacular interface (VMI) abnormalities, including epiretinal membrane (ERM), posterior vitreous detachment (PVD), and vitreomacular adhesion (VMA), have significant heritability, with individual environmental effects explaining the remaining variance. The heritability and higher concordance of ERM, PVD, and VMA in monozygotic (MZ) than dizygotic (DZ) twins suggest a role for genetic factors. However, the authors acknowledge that their study was underpowered to calculate concordances and heritability for other VMI abnormalities and that there is a lack of consensus on the grading of ERM from spectral domain optical coherence tomography (SD-OCT). They also mention that there is a need for larger genome-wide association studies (GWAS) to identify genes implicated in the development of ERM. Additionally, some limitations include the study's reliance on self-reported data for secondary causes of VMI abnormalities and the possibility of survivor bias in the study's finding of a protective effect of smoking for ERM development. The authors call for the need for more research in this area to better understand the mechanisms behind VMI abnormalities and to develop potential treatments. No limits are provided by the authors for the heritability and concordance of ERM, PVD, and VMA, as those values were explicitly stated in the text.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The study found that common VMI abnormalities, including epiretinal membrane (ERM), posterior vitreous detachment (PVD), and vitreomacular adhesion (VMA), have a heritable component, with heritability estimates ranging from 38.9% to 53.2%. The authors suggest that future genetic studies, such as genome-wide association studies (GWAS), could help elucidate mechanisms and identify potential treatments.\n\nThe authors acknowledge several limitations of their study:\n\n1. The study used a self-reported questionnaire to identify secondary causes of VMI abnormalities, which may introduce bias. However, they found that removing these secondary causes had little effect on the concordances of ERM, PVD, and VMA.\n\n2. The sample size was not large enough to estimate the heritability of the subtypes of VMA or fully examine the heritability of FTMH, LMH, and VMT.\n\n3. Differences in prevalence estimates and diagnostic methods for VMI abnormalities between studies may be due to variations in imaging protocols, devices, and classifications. They suggest that an international consensus on ERM classification may help ensure better comparability between studies.\n\n4. The authors did not assess the impact of VMI abnormalities on visual function, as participants did not undergo any visual acuity measurements. They also did not have enough power to estimate heritability in LMH and MH due to their low prevalence in the population. Lastly, the sample consisted primarily of elderly, White Caucasian women, which may limit the generalizability of the findings to other populations.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding of this study is that common vitreomacular interface (VMI) abnormalities, including epiretinal membrane (ERM), posterior vitreous detachment (PVD), and vitreomacular adhesion (VMA), have heritability with individual environmental factors explaining the remaining variance. The study also found a higher prevalence of VMI abnormalities in older individuals and those with high myopia.\n\nLimitations of the study include the fact that it was underpowered to estimate the heritability and concordance of vitreomacular hole (VMH), lattice macular hole (LMH), and macular hole (MH). The study also did not measure visual acuity, which could be important in assessing the impact of VMI abnormalities on vision. The cohort was also predominantly White Caucasian women, which may limit the generalizability of the findings. The study also used different methods to diagnose VMI abnormalities, which could affect the prevalence estimates. Finally, the study found a higher prevalence of PVD in female subjects, which could be due to a faster rate of PVD progression in women or a higher average age of DZ twins. However, the study did not investigate this further.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding of this study is that common vitreomacular interface (VMI) abnormalities, including epiretinal membrane (ERM), posterior vitreous detachment (PVD), vitreomacular adhesion (VMA), and macular hole (MH), have heritable components and understanding their genetics could potentially lead to new treatments. The authors acknowledge some limitations, including the underpowering to calculate heritability for certain VMI subtypes, the lack of consensus on ERM grading, and the different OCT devices and imaging protocols impacting detection and diagnosis. No clear statement is made regarding sex differences or environmental risk factors. The study's cohort is predominantly White Caucasian women, potentially limiting generalizability to other populations.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this study is that common vitreomacular interface (VMI) abnormalities, including epiretinal membrane (ERM), posterior vitreous detachment (PVD), and vitreomacular adhesion (VMA), are heritable.\n\nRegarding limitations, the authors acknowledge that their study is underpowered to examine heritability and concordance for all VMI abnormalities, including foveal tissue morphology, lamellar and full-thickness macular holes, and lattice degeneration. They also note that the prevalence and grading of VMI abnormalities vary between studies due to differences in imaging techniques, classification systems, and participant demographics. The authors also acknowledge that environmental factors, such as age and vitreous liquefaction, may contribute to the development of VMI abnormalities.\n\nThey mention that the diagnostic accuracy of vitreomacular interface abnormalities using SD-OCT may be subject to limitations, such as differences in image quality and sensitivity between different devices and imaging protocols. Additionally, they acknowledge that the heritability and concordance of VMI abnormalities may be influenced by shared familial environmental factors that could not be fully controlled for in this study. They suggest that future studies using larger sample sizes and more advanced imaging techniques may help clarify the contributions of genetic and environmental factors to the development of VMI abnormalities.\n\nNo other explicit limitations were mentioned in the text provided.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.

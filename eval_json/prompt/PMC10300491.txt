@@ -1,0 +1,185 @@
+[START TEXT]In the 35 epidemiological cohort studies included in this review, there was evidence of positive associations between occupational exposure as a firefighter and cancer incidence for several sites, including bladder, testis, prostate, thyroid, and colon cancer, as well as mesothelioma, NHL, and melanoma. Associations for bladder cancer and NHL were modest in magnitude. For mortality outcomes, associations were attenuated compared with incidence outcomes for prostate, colon cancer, and melanoma, while they were similar or greater in magnitude for bladder, lung cancer, NHL, and mesothelioma. Since the most recent meta-analysis on cancer in firefighters, three new cohort studies and two cohorts with extended follow-up have been published that were included in this review. Our results from comparable analyses were consistent with those previously reported and suggested more strongly positive associations for the incidence of testis, colon, and prostate cancer, as well as for mesothelioma and melanoma. Applying a causal interpretation to our findings requires additional considerations regarding the influence of bias and the plausibility of exposures in the occupation to cause specific cancer types over time. Studies of cancer in firefighters are subject to substantial influence from medical surveillance bias, healthy worker hire and survivor bias, and confounding, which we sought to evaluate in sensitivity analyses. Additionally, firefighters can be exposed to various and complex mixtures of carcinogenic hazards during fire and non-fire events. The types of activities performed, use of personal protective equipment, and composition of exposures in the occupation have changed significantly over time and differ by region and type of fire suppression activity (e.g., wildland, structural, and vehicular). Despite the large volume of epidemiological research on this topic, these factors make causal assessments of the associations observed in meta-analysis of human cancer studies challenging.
+We observed an elevated risk of mesothelioma among firefighters, but no evidence of higher risk for cancer of the lung, including the trachea and bronchus. The positive association observed for mesothelioma incidence was strong in magnitude relative to other summary estimates, and the mRR estimate exhibited little heterogeneity. The combined information from seven cohort studies was consistent in showing a positive association, except for one study from Denmark which was based on only four cases and a study population consisting of a high proportion of part-time and volunteer firefighters. Removing this study from the meta-analysis increased the mRR from 1.58 to 1.70 and reduced the heterogeneity to 0%. The positive association remained similar in magnitude in sensitivity analyses using alternative referent populations and applying age period and bias restrictions. Although analyses by duration of employment showed an inverse monotonic association, these results were only based on three studies and estimates were highly imprecise. Structural firefighters may be exposed to asbestos during multiple activities that can disturb building materials containing asbestos, such as fire suppression, overhaul, rescue, and recovery. Exposure could also occur from the resuspension of asbestos fibers from contamination on apparatus and firefighting gear. Confounding due to asbestos exposure outside of the firefighting occupation is unlikely to explain the magnitude and consistency of results for mesothelioma across studies. Findings for mesothelioma have only recently become observable with adequate validity due to the unavailability of diagnostic codes for mesothelioma in the ICD before the introduction of the 10th revision in 1999. While cancer incidence studies with ICD-10 codes capable of capturing mesothelioma diagnoses have recently become available, the lack of a cause-of-death code before 1999 may have obscured the risk of this cancer in older cohort studies ascertaining mortality outcomes.
+Despite firefighters being potentially exposed to several known human lung carcinogens, including components of smoke (e.g., soot) and diesel engine exhaust, there was no evidence in any analyses that employment as a firefighter was positively associated with either lung cancer incidence or mortality, although mortality findings were closer to the null than incidence findings. These findings suggest that the inhalation of combustion products may not be sufficient to cause an increased risk of lung cancer among most firefighters (or to overcome downward biases), possibly due to exposure reduction controls that are effective in reducing exposures, such as self-contained breathing apparatus. Alternatively, factors that could obscure a positive association include the healthy worker hire bias and the potential for negative confounding due to tobacco smoking in studies with more recent calendar periods of follow-up. Available information on tobacco smoking prevalence in firefighters is sparse and restricted primarily to the USA, although studies suggest that firefighters have a lower prevalence of smoking than the general population, with one US study observing a trend of lower smoking since at least the early 1990s. No studies included in the meta-analysis controlled directly for smoking status. The attenuation of the risk deficit when giving priority to uniformed service or working comparison groups and when restricting to periods of longer follow-up also supports a potential role of healthy worker biases. The mRR for lung cancer incidence using uniformed service comparison groups was 20 percentage points greater than that using general populations, although it still showed little evidence of a positive association. Consistent with our meta-analysis results, findings from the pooled international SYNERGY case-control study showed no increased risk of lung cancer overall or by histological cell type among firefighters with or without adjustment for smoking.
+Positive associations were observed for bladder, testis, and prostate cancer incidence, but there was little evidence of elevated risk for cancer of the kidney. The positive association for bladder cancer incidence was modest in magnitude, although the estimate was statistically precise, with little heterogeneity (I2 = 0%). Results for bladder cancer mortality were also consistent with the incidence results in showing a modest positive association, despite the mortality results exhibiting lower statistical precision. Results from two studies of firefighters in Norway and Sweden with long periods of follow-up were excluded from the bladder cancer analyses because they used broader case definitions that included cancers of the urinary tract (bladder, other urinary, ureter, and renal pelvis combined; ICD-10 C65-C68). However, both studies reported positive results, and including them in the meta-analysis yielded an identical mRR estimate of 1.16 (95% CI 1.08–1.24, I2 = 0%). Although results did not indicate a positive association for bladder cancer incidence with increasing duration of employment, duration analyses may be biased downward due to healthy worker survivor bias, assuming that firefighters employed for longer durations receive less exposure to fire hazards with greater seniority, and that less healthy workers leave the occupation after shorter durations due to the effects of exposure or diminishing health status. In a pooled US study of municipal firefighters, a strong indication of confounding by employment duration was observed in internal analyses of the association between exposed days and bladder cancer mortality, where the estimate shifted from a negative to a positive association after adjustment for employment duration.
+Firefighters can be frequently exposed to combustion products from fires, including soot and PAHs, as well as diesel engine exhaust, which are known or suspected causes of bladder cancer in humans. Although these agents can cause lung cancer as well, differences in the route of exposure (e.g., ingestion/absorption versus inhalation) and metabolism of these agents in the urinary tract may impart risks specific to the bladder. Findings among aluminum production workers (who are primarily exposed to PAHs) showed a similar pattern of stronger associations with bladder than with lung cancer. Tobacco smoking is not expected to be a positive confounder of the observed associations for bladder cancer given the inverse associations we observed for lung cancer and evidence suggesting reduced smoking prevalence among firefighters compared to the general population. Further, some evidence from studies of bladder cancer among firefighters with known smoking status indicates that positive associations may persist after adjustment for smoking.
+The positive association observed for testicular cancer incidence in the main analysis was greater in magnitude (mRR 1.37) than the associations observed for all other cancer sites aside from mesothelioma, although the estimate exhibited high heterogeneity (I2 = 56%). The association was attenuated in the sensitivity analysis restricting to studies with older age/length of follow-up, suggesting that the increased risk in firefighters is greatest during younger age periods, which is when testicular cancer is most commonly diagnosed in the general population (<35 years). Standardized screening methods for testicular cancer are not available, and most tumors are found by self- or medical exam. Based on tumor behavior and progression, early detection is not likely to explain the observed excess risk. Overall, no environmental or occupational exposures have been established as known causes of testicular cancer. However, firefighters may be exposed to some compounds with "limited" evidence of human testicular carcinogenicity, including perfluorooctanoic acid (PFOA). Aqueous film-forming foams (AFFF) are fire suppressants used to fight flammable liquid fires in training facilities, vehicles, ships, and aircraft, and they contain PFOA (or other PFAS) and/or similar compounds. However, the extent of AFFF exposure among firefighters examined in the included studies is unclear.
+Positive associations were observed with prostate cancer incidence, although the mRR exhibited high heterogeneity (I2 = 81%), and associations were attenuated when using mortality as an outcome. Associations with prostate cancer incidence were also attenuated by more than 10% when restricting the meta-analysis to studies using other uniformed service populations as a comparison group. Firefighters may benefit from increased medical surveillance and more frequent cancer screenings than the general population due to greater access to routine medical assessments and uptake of cancer prevention initiatives. Such surveillance can make it more likely for cancers that would not otherwise have been identified, or detected at a later stage, to be detected in firefighters, even for cancer types that do not have broad population-based screening programs. The introduction of prostate-specific antigen testing in the 1980s has led to an increase in the incidence of prostate cancer diagnoses in the general population, and this trend may have been accentuated in populations with greater medical screening. A study of all prostate cancer cases diagnosed over a 57-year period in Norway showed that firefighters were diagnosed with prostate cancer at a younger age and had better prognostic markers at diagnosis compared to other men in the general population, and that the difference was most pronounced during the most recent decade of observation (2007–2017). Men in other uniformed service occupations with regular health screenings showed similar results to firefighters. Our exclusion of studies with “major” concern for surveillance bias in sensitivity analysis may not have been sufficient to fully account for the positive influence of screening on our prostate cancer results.
+Cancers in other organ systems also showed evidence of positive associations among firefighters, including melanoma of the skin, NHL, and colon cancer. A positive association of moderate magnitude was observed for the incidence of melanoma, although the mRR exhibited considerable heterogeneity, and the estimate was attenuated to a null association when using uniformed service populations as the comparison group. Melanoma was one of few cancer sites that showed positive and statistically precise associations in all three categories of duration of employment. While firefighters can be occupationally exposed to agents known to cause melanoma, including solar radiation and PCBs, sources of confounding could contribute to the observed findings, including differences in the distribution of non-firefighting-related sun exposure and skin tone between firefighters and comparison groups. Information on race was available in only two US studies and suggested a greater prevalence of White race among firefighters than the general population. Further, medical surveillance bias could also explain the excess risk in firefighters, as skin cancer screening and secondary prevention campaigns have been shown to increase the frequency of melanoma diagnoses. In contrast to melanoma and non-melanoma skin cancers have soot exposure as an established cause, although positive results for non-melanoma skin cancer were only observed in one of the four studies that reported results for both skin cancer types.
+A modest positive association was observed for both NHL incidence and mortality outcomes, and both estimates exhibited little heterogeneity (I2 = 0%). The associations persisted in all sensitivity analyses; however, individual studies were inconsistent in showing positive findings. NHL was among the cancer types first reported to be positively associated with firefighting in a prior meta-analysis in 2006. Firefighters can be exposed to agents that are either known or suspected causes of NHL, including exposure to PAHs in combustion products and benzene. Interpretation of findings for NHL is complicated by the heterogenous subtypes of the disease with distinct etiologic characteristics and evolving diagnostic criteria that have changed the classification of cancer across time and between studies. The distribution of NHL subtypes can vary geographically and may influence discrepant results between studies in different countries. Changing definitions of NHL over time may have led to some inconsistency in results, particularly if there is heterogeneity in the association with firefighting by tumor subtype. Furthermore, confounding patterns for NHL may vary by subtype (e.g., alcohol consumption appears inversely related to some forms of NHL).
+Colon cancer incidence was observed to be in excess among firefighters, although there was no evidence of positive associations with mortality. The mRR was modest in magnitude with some between-study heterogeneity (I2 = 37%), and there were too few studies available for reliable estimates of the association with the duration of employment. Because of the positive associations with colon cancer incidence and not mortality, surveillance bias via greater screening among firefighters may partially explain observed findings. Firefighters are required to maintain a high level of physical fitness to enter their profession, and physical activity has been associated with a decreased risk of colon cancer, although little is known about this and other non-occupational risk factors for colon cancer among firefighters.
+Thyroid and brain and nervous system cancer also showed some evidence of being positively associated with occupational exposure as a firefighter. Excess risk was observed for thyroid cancer incidence, although results were attenuated in most sensitivity analyses. Thyroid cancer may be particularly vulnerable to surveillance bias due to overdiagnosis of occult lesions, which has been demonstrated in the cohort of firefighters exposed to the collapse of the World Trade Center in the USA, who receive extensive medical surveillance. The mRR was substantially influenced by the inclusion of one study from this cohort which reported the highest effect estimate for thyroid cancer even after the authors applied a surveillance bias adjustment. A positive association was also observed for brain and nervous system cancer mortality, although findings for incidence outcomes were null. The duration of employment results for mortality outcomes showed suggestive elevations in all duration categories, although estimates were statistically imprecise. Results for brain and nervous system cancer are consistent with findings from the previous meta-analysis, and potential explanations for the positive findings in older mortality-based studies are unclear.
+Strengths of this work, aside from the incorporation of new and updated results from cohort studies, are the meta-analysis of duration of employment as a firefighter and sensitivity analyses using different referent populations, age/length of follow-up restrictions, and our tailored bias assessment exercise for major sources of bias applicable to studies on the topic. These additional analyses complement results from previous systematic reviews and meta-analyses of cancer among firefighters. Despite these strengths, we could not meta-analyze internal comparison results for cumulative exposure to firefighting activities, such as number of exposed days, number of fire responses, or types of fires fought, as few studies conducted such analyses and those that did used inconsistent metrics. As a result, inferences from this work are largely based on results from analyses limited to ever-employment and duration of employment in the occupation. The reviewed studies are limited by challenges in exposure assessment; medical surveillance bias; adjustment for individual confounding factors, such as tobacco consumption, healthy worker biases; and short length of follow-up.
+[END TEXT]{
+    "ChatGPT": {
+        "summ": "The study found positive associations between occupational exposure as a firefighter and incidence of various cancers, including bladder, testis, prostate, thyroid, colon cancer, as well as mesothelioma, NHL, and melanoma, with potential influence from biases and complex exposures; limitations include challenges in exposure assessment, medical surveillance bias, adjustment for confounding factors like tobacco consumption, healthy worker biases, and short follow-up periods.",
+        "quality": {
+            "Factual consistency": [
+                2,
+                "The main finding of the study is presented accurately and concisely. All of the limitations that are mentioned are factually consistent with the source text, however they are not described in any detail."
+            ],
+            "Coverage": [
+                2,
+                "The summary mentions limitations, however they are presented as a list of limitations and are not provided with enough explanation."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "Gemini": {
+        "summ": "The most important finding in this study is that firefighters have an increased risk of several cancers, including mesothelioma, testicular cancer, and prostate cancer.\n\nYes, the authors explicitly acknowledge limitations of the paper. The limitations include challenges in exposure assessment, medical surveillance bias, adjustment for individual confounding factors, healthy worker biases, and short length of follow-up. For instance, the authors note that it is difficult to accurately assess firefighters' exposure to carcinogens because the types of activities performed, use of personal protective equipment, and composition of exposures vary depending on factors like region and type of fire. Additionally, firefighters may be more likely to be diagnosed with certain cancers due to increased medical surveillance compared to the general population. The authors also acknowledge that some studies may not have adequately accounted for confounding factors such as smoking or that healthy workers may be more likely to stay in firefighting jobs, potentially leading to an underestimation of risk. Finally, some of the studies included in the meta-analysis had a short follow-up period, which may not have been sufficient to capture the long-term effects of exposure to carcinogens.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary mentions all limitations presented in the paper, and provides them with a brief explanation."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations. The summary lists all of the limitations before explaining them in more detail which helps readability, especally when the original paper contains a long list of limitations."
+            ]
+        }
+    },
+    "MSCopilot": {
+        "summ": "The most important finding in this study is that there is evidence of positive associations between occupational exposure as a firefighter and cancer incidence for several sites, including bladder, testis, prostate, thyroid, and colon cancer, as well as mesothelioma, non-Hodgkin's lymphoma (NHL), and melanoma.\n\nThe authors explicitly acknowledge several limitations of the paper. They mention that the studies reviewed are limited by challenges in exposure assessment, which could affect the accuracy of the results. They also point out the potential for medical surveillance bias, where firefighters may have greater access to routine medical assessments and uptake of cancer prevention initiatives, which could lead to an overestimation of cancer incidence. The authors also note the lack of adjustment for individual confounding factors, such as tobacco consumption, which could influence the observed associations. They mention healthy worker biases, where less healthy workers may leave the occupation after shorter durations due to the effects of exposure or diminishing health status, which could lead to an underestimation of cancer incidence. Lastly, they mention the short length of follow-up in some studies, which could limit the ability to observe long-term health effects. These limitations highlight the complexity of studying occupational exposures and health outcomes in firefighters.",
+        "quality": {
+            "Factual consistency": [
+                1,
+                "The summary is factually consistent with the source text."
+            ],
+            "Coverage": [
+                1,
+                "The summary mentions all limitations presented in the paper, and provides them with a brief explanation."
+            ],
+            "Coherence": [
+                1,
+                "The summary is coherent and does not include hallucinations."
+            ]
+        }
+    },
+    "zeroshot_original": {
+        "summ": "The study found that firefighters have an elevated risk of mesothelioma, bladder, testis, prostate, and colon cancer, as well as NHL and melanoma, compared to the general population. Limitations of the study include the influence of bias, such as medical surveillance bias, healthy worker bias, and confounding, especially with regards to asbestos exposure and smoking status. Studies have shown thatFirefighters are exposed to various carcinogenic hazards during fire and non-fire events, including asbestos, polycyclic aromatic hydrocarbons (PAHs), and diesel engine exhaust, but the exact mixtures and compositions of exposures in the occupation have changed significantly over time and differ by region and type of fire suppression activity. The lack of consistent and detailed exposure assessment across studies makes it difficult to estimate the risk of specific cancer types and to tease out the contribution of individual carcinogens. Furthermore, the available cancer incidence studies with ICD-10 codes capable of capturing mesothelioma diagnoses may not fully account for the risk of this cancer in older cohort studies, as a cause-of-death code for mesothelioma was not available before 1999. Overall, while the epidemiological evidence suggests positive associations between occupational exposure as a firefighter and cancer incidence for several sites, the authors acknowledge that the complex and changing nature of firefighter exposures and potential confounding factors make causal assessments challenging.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "zeroshot_improved": {
+        "summ": "The most important finding of this study is that there is evidence of positive associations between occupational exposure as a firefighter and cancer incidence for several sites, including bladder, testis, prostate, thyroid, and colon cancer, as well as mesothelioma, NHL, and melanoma.\n\nNo explicit limitations are provided by the authors in this text, but they do acknowledge the influence of bias and the plausibility of exposures in the occupation as considerations for causal assessments. They also mention the challenges of conducting causal assessments due to the large volume of research on this topic, which includes significant changes in the types of activities performed, use of personal protective equipment, and composition of exposures over time and by region and type of fire suppression activity. They also mention the influence of medical surveillance bias, healthy worker hire and survivor bias, and confounding. Additionally, they note that the findings for mesothelioma have only recently become observable with adequate validity due to the lack of a cause-of-death code before 1999, which may have obscured the risk of this cancer in older cohort studies. They also mention the potential impact of smoking and tobacco exposure on their findings but do not control for it directly in any of the analyses.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_top": {
+        "summ": "The most important finding in this study is that there is evidence of positive associations between occupational exposure as a firefighter and cancer incidence for multiple sites, including bladder, testis, prostate, thyroid, and colon cancer, as well as mesothelioma, NHL, and melanoma, but the complex mixtures of carcinogenic hazards, exposure variation, and bias make causal assessments challenging.\n\nThe authors acknowledge several limitations, including substantial bias due to medical surveillance, healthy worker hire and survivor bias, confounding, and the presence of various carcinogenic hazards with complex mixtures and changing exposures over time and differences by region and type of fire suppression activity. Additionally, they note the lack of information on tobacco smoking prevalence and control in studies, which could obscure or confound the observed associations.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all": {
+        "summ": "The most important finding in this study is that firefighters have an increased risk of various types of cancer, including bladder, testicular, prostate, and breast cancer, as well as mesothelioma and melanoma, compared to the general population. However, the authors acknowledge several limitations, including the need for more research on the impact of specific exposure levels, the possibility of biases in study design and data collection, and the difficulty of determining causality due to the complex and multifaceted nature of firefighting and cancer. They also suggest that further research is necessary to clarify the role of occupational and non-occupational factors in cancer risk among firefighters. Additionally, they note that the evidence on the association between smoking and cancer in firefighters is sparse and inconsistent, and that more studies are needed to assess the potential confounding effect of smoking on the observed cancer risks among firefighters.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    },
+    "article_all_explanation": {
+        "summ": "The most important finding in this study is that occupational exposure as a firefighter was positively associated with cancer incidence and mortality for several sites including bladder, testis, prostate, thyroid, and colon cancer, as well as mesothelioma, NHL, and melanoma, although findings are subject to influencing factors such as bias and plausibility of exposures.\n\nRegarding limitations, the authors acknowledge the substantial influence of bias in studies on cancer in firefighters and evaluate it through sensitivity analyses. They also highlight the complex nature of exposures to carcinogenic hazards in the occupation and the changes in exposure types and levels over time. The authors also mention the lack of cause-of-death codes for mesothelioma in older cohort studies and the potential role of confounding from asbestos exposure outside of the firefighting occupation.\n\nNo explicit limitations regarding statistical methods were mentioned in the text. Therefore, any assumptions about statistical limitations should be based on the context and assumptions made in the methods section, rather than being explicitly stated in the discussion.",
+        "quality": {
+            "factual consistency": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coverage": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ],
+            "coherence": [
+                "?",
+                "EXPLAIN RATING HERE"
+            ]
+        }
+    }
+}
+
+
+Please return the scores for the metrics factual consistency, coverage and coherence for the summaries of settings zeroshot_original, zeroshot_improved, article_top, article_all and article_all_explanation.
+        
+For factual consistency, a score of 1 is assigned when all information is in line with the original text. A score of 2 is assigned, for example when the information is correct but contains little to no detail. A score of 3 is assigned when the summary contains information that is not in line with the original text.
+        
+For coverage, a score of 1 is assigned when the summary covers all limitations mentioned in the original text. A score of 2 is assigned when all limitations are mentioned, but not explained. A score of 3 is assigned when the summary fails to mention all limitations.
+        
+For coherence, a score of 1 is assigned when the summary is coherent and does not contain hallucinations. A score of 2 is assigned when the summary does not follow the instructions in the prompt perfectly, but is still coherent and does not include hallucinations. A score of 3 is assigned when the summary contains hallucinations or is incomprehensible, for example when abbreviations are used but never explained.
+        
+Return your ratings in the same JSON format as used in the examples, so:
+
+
+{
+{<summary setting>: {
+        "summ": "<you can leave this string empty>",
+        "quality": {
+            "factual consistency": [
+                <score>,
+                "<explanation>"
+            ],
+            "coverage": [
+                <score>,
+                "<explanation>"
+            ],
+            "coherence": [
+                <score>,
+                "<explanation>"
+            ]
+        }
+    },
+    ...
+}
+
+Make sure use JSON formatting in your response, and use an indentation of 4 spaces.
